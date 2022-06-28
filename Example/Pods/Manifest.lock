@@ -1,0 +1,40 @@
+PODS:
+  - Activ5-IMU (0.1.0):
+    - Activ5Device
+    - Hamilton
+  - Activ5Device (1.0.0)
+  - Hamilton (1.0.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Activ5-IMU (from `../`)
+  - Activ5Device (from `../../Activ5-Device/Activ5Device`)
+  - Hamilton (from `https://github.com/martin-key/Hamilton`)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  Activ5-IMU:
+    :path: "../"
+  Activ5Device:
+    :path: "../../Activ5-Device/Activ5Device"
+  Hamilton:
+    :git: https://github.com/martin-key/Hamilton
+
+CHECKOUT OPTIONS:
+  Hamilton:
+    :commit: d04dfa5bbfbb9550ca8d7df2ee32bc575afeff2e
+    :git: https://github.com/martin-key/Hamilton
+
+SPEC CHECKSUMS:
+  Activ5-IMU: 999da4497cdf11e20a428a4793986e099f38c420
+  Activ5Device: de802661ccc1eb27ed8a13a8b9daec086b44b326
+  Hamilton: ad2cef1c43a7b2aa7969f987f44d5f27416cd60c
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 107aa34ca363025cf827234ce65b1a477ec8d26f
+
+COCOAPODS: 1.8.1

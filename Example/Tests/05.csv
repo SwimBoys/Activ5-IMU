@@ -1,0 +1,337 @@
+"Dec 5, 2018 12:37:00 PM",1544042220909,RAW DATA         ,mX,-303               ,mY                 ,4104               ,mZ,40   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:00 PM",1544042220911,OFFSET SAMPLE DPS,0 ,-1.890000008046627 ,-3.780000016093254 ,-2.9400000125169754
+"Dec 5, 2018 12:37:01 PM",1544042221009,RAW DATA         ,mX,-301               ,mY                 ,4103               ,mZ,63   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:01 PM",1544042221011,OFFSET SAMPLE DPS,1 ,-1.8200000077486038,-3.8500000163912773,-2.870000012218952
+"Dec 5, 2018 12:37:01 PM",1544042221109,RAW DATA         ,mX,-301               ,mY                 ,4105               ,mZ,74   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:01 PM",1544042221112,OFFSET SAMPLE DPS,2 ,-1.890000008046627 ,-3.780000016093254 ,-2.9400000125169754
+"Dec 5, 2018 12:37:01 PM",1544042221209,RAW DATA         ,mX,-305               ,mY                 ,4109               ,mZ,58   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:01 PM",1544042221213,OFFSET SAMPLE DPS,3 ,-1.8200000077486038,-3.8500000163912773,-2.870000012218952
+"Dec 5, 2018 12:37:01 PM",1544042221310,RAW DATA         ,mX,-304               ,mY                 ,4104               ,mZ,65   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,14
+"Dec 5, 2018 12:37:01 PM",1544042221314,OFFSET SAMPLE DPS,4 ,-1.890000008046627 ,-3.8500000163912773,-2.9400000125169754
+"Dec 5, 2018 12:37:01 PM",1544042221409,RAW DATA         ,mX,-287               ,mY                 ,4111               ,mZ,90   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,11
+"Dec 5, 2018 12:37:01 PM",1544042221412,OFFSET SAMPLE DPS,5 ,-1.890000008046627 ,-3.8500000163912773,-2.870000012218952
+"Dec 5, 2018 12:37:01 PM",1544042221508,RAW DATA         ,mX,-300               ,mY                 ,4114               ,mZ,59   ,mGx,-27 ,mGy,-56 ,mGz,-41 ,mIso,14
+"Dec 5, 2018 12:37:01 PM",1544042221511,OFFSET SAMPLE DPS,6 ,-1.890000008046627 ,-3.9200000166893005,-2.870000012218952
+"Dec 5, 2018 12:37:01 PM",1544042221608,RAW DATA         ,mX,-295               ,mY                 ,4116               ,mZ,58   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:01 PM",1544042221611,OFFSET SAMPLE DPS,7 ,-1.890000008046627 ,-3.8500000163912773,-2.870000012218952
+"Dec 5, 2018 12:37:01 PM",1544042221709,RAW DATA         ,mX,-299               ,mY                 ,4103               ,mZ,82   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:01 PM",1544042221712,OFFSET SAMPLE DPS,8 ,-1.890000008046627 ,-3.780000016093254 ,-2.870000012218952
+"Dec 5, 2018 12:37:01 PM",1544042221810,RAW DATA         ,mX,-317               ,mY                 ,4112               ,mZ,73   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:01 PM",1544042221814,OFFSET SAMPLE DPS,9 ,-1.8200000077486038,-3.8500000163912773,-2.870000012218952
+"Dec 5, 2018 12:37:01 PM",1544042221911,RAW DATA         ,mX,-299               ,mY                 ,4120               ,mZ,59   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:01 PM",1544042221913,AVERAGE OFFSET   ,10,-1.86900000795722  ,-3.8360000163316728,-2.8910000123083592
+"Dec 5, 2018 12:37:02 PM",1544042222010,RAW DATA         ,mX,-295               ,mY                 ,4103               ,mZ,71   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222109,RAW DATA         ,mX,-302               ,mY                 ,4098               ,mZ,67   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222199,RAW DATA         ,mX,-296               ,mY                 ,4115               ,mZ,61   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222309,RAW DATA         ,mX,-293               ,mY                 ,4111               ,mZ,51   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222395,RAW DATA         ,mX,-304               ,mY                 ,4114               ,mZ,79   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222498,RAW DATA         ,mX,-311               ,mY                 ,4111               ,mZ,49   ,mGx,-27 ,mGy,-56 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222598,RAW DATA         ,mX,-300               ,mY                 ,4117               ,mZ,61   ,mGx,-27 ,mGy,-56 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222699,RAW DATA         ,mX,-294               ,mY                 ,4111               ,mZ,62   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222800,RAW DATA         ,mX,-314               ,mY                 ,4107               ,mZ,74   ,mGx,-25 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222896,RAW DATA         ,mX,-305               ,mY                 ,4107               ,mZ,61   ,mGx,-26 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:02 PM",1544042222999,RAW DATA         ,mX,-302               ,mY                 ,4100               ,mZ,66   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223103,RAW DATA         ,mX,-299               ,mY                 ,4107               ,mZ,72   ,mGx,-27 ,mGy,-55 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223199,RAW DATA         ,mX,-309               ,mY                 ,4101               ,mZ,52   ,mGx,-28 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223298,RAW DATA         ,mX,-304               ,mY                 ,4117               ,mZ,64   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223399,RAW DATA         ,mX,-320               ,mY                 ,4102               ,mZ,75   ,mGx,-26 ,mGy,-56 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223498,RAW DATA         ,mX,-309               ,mY                 ,4110               ,mZ,55   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223599,RAW DATA         ,mX,-302               ,mY                 ,4106               ,mZ,70   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223701,RAW DATA         ,mX,-295               ,mY                 ,4115               ,mZ,78   ,mGx,-27 ,mGy,-56 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223803,RAW DATA         ,mX,-322               ,mY                 ,4095               ,mZ,73   ,mGx,-26 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223898,RAW DATA         ,mX,-320               ,mY                 ,4108               ,mZ,41   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:03 PM",1544042223997,RAW DATA         ,mX,-308               ,mY                 ,4106               ,mZ,76   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224095,RAW DATA         ,mX,-319               ,mY                 ,4105               ,mZ,76   ,mGx,-28 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224199,RAW DATA         ,mX,-316               ,mY                 ,4101               ,mZ,56   ,mGx,-28 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224310,RAW DATA         ,mX,-306               ,mY                 ,4101               ,mZ,70   ,mGx,-26 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224396,RAW DATA         ,mX,-294               ,mY                 ,4114               ,mZ,66   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224498,RAW DATA         ,mX,-224               ,mY                 ,4107               ,mZ,61   ,mGx,-26 ,mGy,-55 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224606,RAW DATA         ,mX,-234               ,mY                 ,4105               ,mZ,77   ,mGx,-25 ,mGy,-55 ,mGz,-38 ,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224698,RAW DATA         ,mX,-963               ,mY                 ,3920               ,mZ,67   ,mGx,-27 ,mGy,-56 ,mGz,-126,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224798,RAW DATA         ,mX,-255               ,mY                 ,4113               ,mZ,47   ,mGx,-31 ,mGy,-56 ,mGz,-320,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224900,RAW DATA         ,mX,-1291              ,mY                 ,3845               ,mZ,56   ,mGx,-33 ,mGy,-55 ,mGz,-410,mIso,12
+"Dec 5, 2018 12:37:04 PM",1544042224999,RAW DATA         ,mX,-699               ,mY                 ,4063               ,mZ,78   ,mGx,-32 ,mGy,-55 ,mGz,-392,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225099,RAW DATA         ,mX,-832               ,mY                 ,4023               ,mZ,23   ,mGx,-32 ,mGy,-54 ,mGz,-399,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225200,RAW DATA         ,mX,-914               ,mY                 ,3983               ,mZ,21   ,mGx,-32 ,mGy,-54 ,mGz,-394,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225298,RAW DATA         ,mX,-1216              ,mY                 ,3922               ,mZ,65   ,mGx,-33 ,mGy,-54 ,mGz,-400,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225398,RAW DATA         ,mX,-1481              ,mY                 ,3828               ,mZ,98   ,mGx,-32 ,mGy,-55 ,mGz,-399,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225498,RAW DATA         ,mX,-1625              ,mY                 ,3739               ,mZ,47   ,mGx,-32 ,mGy,-56 ,mGz,-397,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225598,RAW DATA         ,mX,-1706              ,mY                 ,3659               ,mZ,40   ,mGx,-32 ,mGy,-54 ,mGz,-399,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225699,RAW DATA         ,mX,-1920              ,mY                 ,3620               ,mZ,73   ,mGx,-32 ,mGy,-55 ,mGz,-400,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225799,RAW DATA         ,mX,-2256              ,mY                 ,3508               ,mZ,40   ,mGx,-32 ,mGy,-55 ,mGz,-400,mIso,12
+"Dec 5, 2018 12:37:05 PM",1544042225899,RAW DATA         ,mX,-2043              ,mY                 ,3480               ,mZ,27   ,mGx,-33 ,mGy,-55 ,mGz,-392,mIso,14
+"Dec 5, 2018 12:37:05 PM",1544042225999,RAW DATA         ,mX,-2216              ,mY                 ,3363               ,mZ,53   ,mGx,-33 ,mGy,-55 ,mGz,-399,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226098,RAW DATA         ,mX,-2413              ,mY                 ,3221               ,mZ,90   ,mGx,-32 ,mGy,-55 ,mGz,-395,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226201,RAW DATA         ,mX,-2583              ,mY                 ,3132               ,mZ,35   ,mGx,-33 ,mGy,-55 ,mGz,-398,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226299,RAW DATA         ,mX,-2741              ,mY                 ,3053               ,mZ,83   ,mGx,-30 ,mGy,-56 ,mGz,-317,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226398,RAW DATA         ,mX,-2881              ,mY                 ,2913               ,mZ,106  ,mGx,-28 ,mGy,-56 ,mGz,-140,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226498,RAW DATA         ,mX,-3011              ,mY                 ,2888               ,mZ,67   ,mGx,-27 ,mGy,-54 ,mGz,-44 ,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226600,RAW DATA         ,mX,-2753              ,mY                 ,2944               ,mZ,47   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226698,RAW DATA         ,mX,-2892              ,mY                 ,2914               ,mZ,76   ,mGx,-27 ,mGy,-55 ,mGz,-45 ,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226798,RAW DATA         ,mX,-2859              ,mY                 ,2923               ,mZ,36   ,mGx,-27 ,mGy,-53 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042226898,RAW DATA         ,mX,-2848              ,mY                 ,2923               ,mZ,41   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:06 PM",1544042227000,RAW DATA         ,mX,-2606              ,mY                 ,2984               ,mZ,67   ,mGx,-27 ,mGy,-54 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227099,RAW DATA         ,mX,-2848              ,mY                 ,2890               ,mZ,65   ,mGx,-26 ,mGy,-56 ,mGz,-44 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227200,RAW DATA         ,mX,-2886              ,mY                 ,2924               ,mZ,30   ,mGx,-24 ,mGy,-57 ,mGz,-44 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227299,RAW DATA         ,mX,-2794              ,mY                 ,2939               ,mZ,-5   ,mGx,-26 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227398,RAW DATA         ,mX,-2853              ,mY                 ,2911               ,mZ,86   ,mGx,-27 ,mGy,-56 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227498,RAW DATA         ,mX,-2542              ,mY                 ,2985               ,mZ,61   ,mGx,-26 ,mGy,-54 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227599,RAW DATA         ,mX,-2867              ,mY                 ,2925               ,mZ,32   ,mGx,-26 ,mGy,-55 ,mGz,-45 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227699,RAW DATA         ,mX,-2928              ,mY                 ,2896               ,mZ,76   ,mGx,-27 ,mGy,-55 ,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227799,RAW DATA         ,mX,-2857              ,mY                 ,2926               ,mZ,55   ,mGx,-27 ,mGy,-55 ,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042227899,RAW DATA         ,mX,-2852              ,mY                 ,2849               ,mZ,-256 ,mGx,52  ,mGy,-131,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:07 PM",1544042228000,RAW DATA         ,mX,-2816              ,mY                 ,2906               ,mZ,282  ,mGx,175 ,mGy,-256,mGz,-47 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228099,RAW DATA         ,mX,-2835              ,mY                 ,2701               ,mZ,-186 ,mGx,233 ,mGy,-302,mGz,-47 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228200,RAW DATA         ,mX,-2940              ,mY                 ,2754               ,mZ,-787 ,mGx,231 ,mGy,-301,mGz,-48 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228299,RAW DATA         ,mX,-2794              ,mY                 ,3103               ,mZ,849  ,mGx,230 ,mGy,-302,mGz,-49 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228398,RAW DATA         ,mX,-2844              ,mY                 ,2793               ,mZ,475  ,mGx,230 ,mGy,-301,mGz,-47 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228498,RAW DATA         ,mX,-2796              ,mY                 ,3062               ,mZ,390  ,mGx,229 ,mGy,-301,mGz,-47 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228599,RAW DATA         ,mX,-2829              ,mY                 ,3005               ,mZ,-322 ,mGx,230 ,mGy,-301,mGz,-48 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228700,RAW DATA         ,mX,-2721              ,mY                 ,3169               ,mZ,1252 ,mGx,215 ,mGy,-311,mGz,-48 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228799,RAW DATA         ,mX,-2892              ,mY                 ,2766               ,mZ,-109 ,mGx,230 ,mGy,-302,mGz,-48 ,mIso,12
+"Dec 5, 2018 12:37:08 PM",1544042228900,RAW DATA         ,mX,-2856              ,mY                 ,2842               ,mZ,-33  ,mGx,232 ,mGy,-300,mGz,-47 ,mIso,11
+"Dec 5, 2018 12:37:08 PM",1544042229000,RAW DATA         ,mX,-2886              ,mY                 ,2889               ,mZ,-175 ,mGx,229 ,mGy,-303,mGz,-47 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229095,RAW DATA         ,mX,-2803              ,mY                 ,2927               ,mZ,1151 ,mGx,230 ,mGy,-302,mGz,-48 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229195,RAW DATA         ,mX,-2839              ,mY                 ,3081               ,mZ,44   ,mGx,227 ,mGy,-305,mGz,-47 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229298,RAW DATA         ,mX,-2691              ,mY                 ,3026               ,mZ,117  ,mGx,228 ,mGy,-301,mGz,-48 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229405,RAW DATA         ,mX,-2865              ,mY                 ,2906               ,mZ,399  ,mGx,233 ,mGy,-303,mGz,-47 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229498,RAW DATA         ,mX,-2807              ,mY                 ,3187               ,mZ,1205 ,mGx,226 ,mGy,-302,mGz,-47 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229595,RAW DATA         ,mX,-2906              ,mY                 ,2760               ,mZ,108  ,mGx,232 ,mGy,-301,mGz,-48 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229701,RAW DATA         ,mX,-2782              ,mY                 ,3092               ,mZ,511  ,mGx,155 ,mGy,-230,mGz,-46 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229799,RAW DATA         ,mX,-2893              ,mY                 ,2939               ,mZ,454  ,mGx,28  ,mGy,-105,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229899,RAW DATA         ,mX,-2718              ,mY                 ,2913               ,mZ,-22  ,mGx,-29 ,mGy,-53 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:09 PM",1544042229999,RAW DATA         ,mX,-2877              ,mY                 ,2905               ,mZ,148  ,mGx,-32 ,mGy,-51 ,mGz,-44 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230100,RAW DATA         ,mX,-2864              ,mY                 ,2911               ,mZ,35   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230199,RAW DATA         ,mX,-2814              ,mY                 ,2947               ,mZ,85   ,mGx,-27 ,mGy,-53 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230298,RAW DATA         ,mX,-2742              ,mY                 ,2980               ,mZ,30   ,mGx,-26 ,mGy,-54 ,mGz,-38 ,mIso,11
+"Dec 5, 2018 12:37:10 PM",1544042230399,RAW DATA         ,mX,-2833              ,mY                 ,2913               ,mZ,83   ,mGx,-28 ,mGy,-54 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230499,RAW DATA         ,mX,-2835              ,mY                 ,2931               ,mZ,48   ,mGx,-27 ,mGy,-54 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230606,RAW DATA         ,mX,-2811              ,mY                 ,2942               ,mZ,66   ,mGx,-28 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230699,RAW DATA         ,mX,-2856              ,mY                 ,2917               ,mZ,48   ,mGx,-24 ,mGy,-58 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230800,RAW DATA         ,mX,-2863              ,mY                 ,2900               ,mZ,115  ,mGx,-28 ,mGy,-55 ,mGz,-45 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230899,RAW DATA         ,mX,-2866              ,mY                 ,2916               ,mZ,66   ,mGx,-27 ,mGy,-54 ,mGz,-38 ,mIso,12
+"Dec 5, 2018 12:37:10 PM",1544042230998,RAW DATA         ,mX,-2783              ,mY                 ,2954               ,mZ,102  ,mGx,-29 ,mGy,-55 ,mGz,-39 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231101,RAW DATA         ,mX,-2828              ,mY                 ,2950               ,mZ,88   ,mGx,-32 ,mGy,-48 ,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231198,RAW DATA         ,mX,-3011              ,mY                 ,2921               ,mZ,27   ,mGx,-28 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231298,RAW DATA         ,mX,-2968              ,mY                 ,2961               ,mZ,108  ,mGx,-25 ,mGy,-55 ,mGz,139 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231396,RAW DATA         ,mX,-2457              ,mY                 ,3110               ,mZ,52   ,mGx,-22 ,mGy,-53 ,mGz,321 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231500,RAW DATA         ,mX,-2713              ,mY                 ,3127               ,mZ,27   ,mGx,-21 ,mGy,-53 ,mGz,313 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231598,RAW DATA         ,mX,-2533              ,mY                 ,3282               ,mZ,52   ,mGx,-21 ,mGy,-55 ,mGz,314 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231698,RAW DATA         ,mX,-2151              ,mY                 ,3382               ,mZ,143  ,mGx,-21 ,mGy,-55 ,mGz,317 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231798,RAW DATA         ,mX,-2249              ,mY                 ,3409               ,mZ,52   ,mGx,-23 ,mGy,-53 ,mGz,313 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231898,RAW DATA         ,mX,-2004              ,mY                 ,3581               ,mZ,63   ,mGx,-22 ,mGy,-53 ,mGz,316 ,mIso,12
+"Dec 5, 2018 12:37:11 PM",1544042231999,RAW DATA         ,mX,-1735              ,mY                 ,3637               ,mZ,88   ,mGx,-22 ,mGy,-53 ,mGz,318 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232100,RAW DATA         ,mX,-1862              ,mY                 ,3658               ,mZ,76   ,mGx,-23 ,mGy,-54 ,mGz,315 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232199,RAW DATA         ,mX,-1357              ,mY                 ,3863               ,mZ,75   ,mGx,-21 ,mGy,-53 ,mGz,316 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232299,RAW DATA         ,mX,-1333              ,mY                 ,3894               ,mZ,112  ,mGx,-21 ,mGy,-55 ,mGz,314 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232398,RAW DATA         ,mX,-1117              ,mY                 ,4001               ,mZ,95   ,mGx,-22 ,mGy,-54 ,mGz,316 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232498,RAW DATA         ,mX,-945               ,mY                 ,3968               ,mZ,13   ,mGx,-22 ,mGy,-54 ,mGz,321 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232602,RAW DATA         ,mX,-775               ,mY                 ,3988               ,mZ,63   ,mGx,-22 ,mGy,-54 ,mGz,317 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232701,RAW DATA         ,mX,-534               ,mY                 ,4110               ,mZ,160  ,mGx,-22 ,mGy,-54 ,mGz,315 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232799,RAW DATA         ,mX,-50                ,mY                 ,4084               ,mZ,100  ,mGx,-22 ,mGy,-54 ,mGz,303 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232900,RAW DATA         ,mX,-418               ,mY                 ,4058               ,mZ,83   ,mGx,-22 ,mGy,-55 ,mGz,309 ,mIso,12
+"Dec 5, 2018 12:37:12 PM",1544042232999,RAW DATA         ,mX,-152               ,mY                 ,4109               ,mZ,43   ,mGx,-20 ,mGy,-55 ,mGz,316 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233099,RAW DATA         ,mX,130                ,mY                 ,4155               ,mZ,112  ,mGx,-20 ,mGy,-55 ,mGz,320 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233200,RAW DATA         ,mX,196                ,mY                 ,4107               ,mZ,71   ,mGx,-23 ,mGy,-55 ,mGz,311 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233298,RAW DATA         ,mX,510                ,mY                 ,4133               ,mZ,89   ,mGx,-22 ,mGy,-54 ,mGz,317 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233398,RAW DATA         ,mX,630                ,mY                 ,4038               ,mZ,68   ,mGx,-22 ,mGy,-54 ,mGz,318 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233498,RAW DATA         ,mX,820                ,mY                 ,4046               ,mZ,63   ,mGx,-21 ,mGy,-54 ,mGz,315 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233600,RAW DATA         ,mX,976                ,mY                 ,4035               ,mZ,66   ,mGx,-22 ,mGy,-53 ,mGz,316 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233698,RAW DATA         ,mX,1318               ,mY                 ,4064               ,mZ,73   ,mGx,-22 ,mGy,-54 ,mGz,323 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233798,RAW DATA         ,mX,1438               ,mY                 ,3946               ,mZ,58   ,mGx,-21 ,mGy,-54 ,mGz,321 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233898,RAW DATA         ,mX,1471               ,mY                 ,3851               ,mZ,45   ,mGx,-22 ,mGy,-53 ,mGz,315 ,mIso,12
+"Dec 5, 2018 12:37:13 PM",1544042233998,RAW DATA         ,mX,1497               ,mY                 ,3796               ,mZ,35   ,mGx,-21 ,mGy,-54 ,mGz,311 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234105,RAW DATA         ,mX,1675               ,mY                 ,3655               ,mZ,62   ,mGx,-22 ,mGy,-55 ,mGz,317 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234198,RAW DATA         ,mX,1972               ,mY                 ,3669               ,mZ,86   ,mGx,-21 ,mGy,-52 ,mGz,318 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234301,RAW DATA         ,mX,2078               ,mY                 ,3546               ,mZ,103  ,mGx,-21 ,mGy,-54 ,mGz,312 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234398,RAW DATA         ,mX,2272               ,mY                 ,3463               ,mZ,15   ,mGx,-21 ,mGy,-53 ,mGz,314 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234498,RAW DATA         ,mX,2457               ,mY                 ,3377               ,mZ,62   ,mGx,-25 ,mGy,-54 ,mGz,144 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234605,RAW DATA         ,mX,2043               ,mY                 ,3299               ,mZ,60   ,mGx,-28 ,mGy,-54 ,mGz,-51 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234701,RAW DATA         ,mX,2472               ,mY                 ,3397               ,mZ,84   ,mGx,-26 ,mGy,-55 ,mGz,-38 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234799,RAW DATA         ,mX,2395               ,mY                 ,3386               ,mZ,36   ,mGx,-28 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042234898,RAW DATA         ,mX,2366               ,mY                 ,3376               ,mZ,74   ,mGx,-26 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:14 PM",1544042235002,RAW DATA         ,mX,2381               ,mY                 ,3376               ,mZ,88   ,mGx,-26 ,mGy,-54 ,mGz,-40 ,mIso,11
+"Dec 5, 2018 12:37:15 PM",1544042235100,RAW DATA         ,mX,2376               ,mY                 ,3373               ,mZ,71   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:15 PM",1544042235199,RAW DATA         ,mX,2382               ,mY                 ,3367               ,mZ,50   ,mGx,-26 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:15 PM",1544042235298,RAW DATA         ,mX,2400               ,mY                 ,3366               ,mZ,92   ,mGx,-27 ,mGy,-56 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:15 PM",1544042235400,RAW DATA         ,mX,2396               ,mY                 ,3374               ,mZ,88   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:15 PM",1544042235498,RAW DATA         ,mX,2375               ,mY                 ,3370               ,mZ,43   ,mGx,-26 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:15 PM",1544042235599,RAW DATA         ,mX,2391               ,mY                 ,3382               ,mZ,65   ,mGx,-26 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:15 PM",1544042235699,RAW DATA         ,mX,2375               ,mY                 ,3370               ,mZ,75   ,mGx,-27 ,mGy,-56 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:15 PM",1544042235798,RAW DATA         ,mX,2392               ,mY                 ,3375               ,mZ,63   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,11
+"Dec 5, 2018 12:37:15 PM",1544042235898,RAW DATA         ,mX,2378               ,mY                 ,3373               ,mZ,71   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:15 PM",1544042235999,RAW DATA         ,mX,2306               ,mY                 ,3484               ,mZ,1095 ,mGx,9   ,mGy,-5  ,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236102,RAW DATA         ,mX,2334               ,mY                 ,3269               ,mZ,-242 ,mGx,118 ,mGy,141 ,mGz,-36 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236200,RAW DATA         ,mX,2359               ,mY                 ,3268               ,mZ,-208 ,mGx,178 ,mGy,225 ,mGz,-36 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236298,RAW DATA         ,mX,2507               ,mY                 ,3325               ,mZ,-199 ,mGx,185 ,mGy,231 ,mGz,-32 ,mIso,11
+"Dec 5, 2018 12:37:16 PM",1544042236408,RAW DATA         ,mX,2424               ,mY                 ,3304               ,mZ,1104 ,mGx,176 ,mGy,228 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236498,RAW DATA         ,mX,2333               ,mY                 ,3490               ,mZ,-356 ,mGx,200 ,mGy,236 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236598,RAW DATA         ,mX,2406               ,mY                 ,3468               ,mZ,-111 ,mGx,185 ,mGy,233 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236699,RAW DATA         ,mX,2435               ,mY                 ,3322               ,mZ,-73  ,mGx,192 ,mGy,236 ,mGz,-32 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236798,RAW DATA         ,mX,2325               ,mY                 ,3425               ,mZ,458  ,mGx,187 ,mGy,231 ,mGz,-33 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236899,RAW DATA         ,mX,2336               ,mY                 ,3240               ,mZ,-134 ,mGx,184 ,mGy,228 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:16 PM",1544042236998,RAW DATA         ,mX,2435               ,mY                 ,3386               ,mZ,81   ,mGx,172 ,mGy,223 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237099,RAW DATA         ,mX,2496               ,mY                 ,3309               ,mZ,765  ,mGx,192 ,mGy,234 ,mGz,-33 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237198,RAW DATA         ,mX,2407               ,mY                 ,3339               ,mZ,1833 ,mGx,185 ,mGy,236 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237304,RAW DATA         ,mX,2392               ,mY                 ,3405               ,mZ,-236 ,mGx,175 ,mGy,227 ,mGz,-34 ,mIso,11
+"Dec 5, 2018 12:37:17 PM",1544042237399,RAW DATA         ,mX,2397               ,mY                 ,3454               ,mZ,382  ,mGx,177 ,mGy,228 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237498,RAW DATA         ,mX,2391               ,mY                 ,3566               ,mZ,9    ,mGx,186 ,mGy,231 ,mGz,-33 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237598,RAW DATA         ,mX,2426               ,mY                 ,3404               ,mZ,-199 ,mGx,173 ,mGy,222 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237699,RAW DATA         ,mX,2423               ,mY                 ,3334               ,mZ,-292 ,mGx,190 ,mGy,231 ,mGz,-33 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237799,RAW DATA         ,mX,2542               ,mY                 ,3149               ,mZ,709  ,mGx,170 ,mGy,219 ,mGz,-36 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237898,RAW DATA         ,mX,2410               ,mY                 ,3407               ,mZ,-80  ,mGx,186 ,mGy,229 ,mGz,-33 ,mIso,12
+"Dec 5, 2018 12:37:17 PM",1544042237999,RAW DATA         ,mX,2529               ,mY                 ,3224               ,mZ,1183 ,mGx,174 ,mGy,229 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238095,RAW DATA         ,mX,2332               ,mY                 ,3289               ,mZ,-1064,mGx,174 ,mGy,225 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238198,RAW DATA         ,mX,2389               ,mY                 ,3351               ,mZ,-918 ,mGx,185 ,mGy,237 ,mGz,-33 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238298,RAW DATA         ,mX,2348               ,mY                 ,3349               ,mZ,-1909,mGx,180 ,mGy,226 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238399,RAW DATA         ,mX,2392               ,mY                 ,3375               ,mZ,-1387,mGx,187 ,mGy,226 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238500,RAW DATA         ,mX,2285               ,mY                 ,3556               ,mZ,-384 ,mGx,190 ,mGy,228 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238595,RAW DATA         ,mX,2486               ,mY                 ,3260               ,mZ,135  ,mGx,185 ,mGy,225 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238698,RAW DATA         ,mX,2494               ,mY                 ,3248               ,mZ,922  ,mGx,176 ,mGy,228 ,mGz,-33 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238799,RAW DATA         ,mX,2399               ,mY                 ,3459               ,mZ,909  ,mGx,183 ,mGy,228 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238899,RAW DATA         ,mX,2403               ,mY                 ,3301               ,mZ,378  ,mGx,164 ,mGy,224 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:18 PM",1544042238998,RAW DATA         ,mX,2404               ,mY                 ,3401               ,mZ,204  ,mGx,186 ,mGy,234 ,mGz,-32 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239099,RAW DATA         ,mX,2376               ,mY                 ,3509               ,mZ,439  ,mGx,185 ,mGy,221 ,mGz,-35 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239200,RAW DATA         ,mX,2344               ,mY                 ,3510               ,mZ,-658 ,mGx,186 ,mGy,233 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239299,RAW DATA         ,mX,2328               ,mY                 ,3409               ,mZ,-309 ,mGx,183 ,mGy,228 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239404,RAW DATA         ,mX,2348               ,mY                 ,3405               ,mZ,-487 ,mGx,183 ,mGy,228 ,mGz,-34 ,mIso,14
+"Dec 5, 2018 12:37:19 PM",1544042239496,RAW DATA         ,mX,2407               ,mY                 ,3376               ,mZ,1228 ,mGx,180 ,mGy,228 ,mGz,-34 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239598,RAW DATA         ,mX,2421               ,mY                 ,3269               ,mZ,340  ,mGx,156 ,mGy,175 ,mGz,-37 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239698,RAW DATA         ,mX,2425               ,mY                 ,3396               ,mZ,1076 ,mGx,34  ,mGy,29  ,mGz,-38 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239798,RAW DATA         ,mX,2369               ,mY                 ,3386               ,mZ,-15  ,mGx,-26 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239899,RAW DATA         ,mX,2398               ,mY                 ,3378               ,mZ,78   ,mGx,-26 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:19 PM",1544042239998,RAW DATA         ,mX,2406               ,mY                 ,3377               ,mZ,57   ,mGx,-27 ,mGy,-56 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240099,RAW DATA         ,mX,2395               ,mY                 ,3370               ,mZ,76   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240198,RAW DATA         ,mX,2404               ,mY                 ,3375               ,mZ,49   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240299,RAW DATA         ,mX,2418               ,mY                 ,3365               ,mZ,74   ,mGx,-28 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240398,RAW DATA         ,mX,2398               ,mY                 ,3365               ,mZ,53   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240499,RAW DATA         ,mX,2411               ,mY                 ,3370               ,mZ,61   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240603,RAW DATA         ,mX,2409               ,mY                 ,3365               ,mZ,62   ,mGx,-26 ,mGy,-56 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240699,RAW DATA         ,mX,2406               ,mY                 ,3357               ,mZ,71   ,mGx,-26 ,mGy,-55 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240798,RAW DATA         ,mX,2399               ,mY                 ,3362               ,mZ,40   ,mGx,-27 ,mGy,-54 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240899,RAW DATA         ,mX,2405               ,mY                 ,3365               ,mZ,51   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:20 PM",1544042240999,RAW DATA         ,mX,2400               ,mY                 ,3367               ,mZ,84   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241100,RAW DATA         ,mX,2406               ,mY                 ,3370               ,mZ,51   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241198,RAW DATA         ,mX,2421               ,mY                 ,3367               ,mZ,47   ,mGx,-26 ,mGy,-54 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241300,RAW DATA         ,mX,2704               ,mY                 ,3460               ,mZ,-57  ,mGx,-93 ,mGy,-143,mGz,-250,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241398,RAW DATA         ,mX,2413               ,mY                 ,3465               ,mZ,215  ,mGx,-193,mGy,-291,mGz,-417,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241498,RAW DATA         ,mX,2174               ,mY                 ,3523               ,mZ,79   ,mGx,-211,mGy,-352,mGz,-398,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241595,RAW DATA         ,mX,1855               ,mY                 ,3614               ,mZ,-783 ,mGx,-202,mGy,-363,mGz,-409,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241695,RAW DATA         ,mX,1793               ,mY                 ,3725               ,mZ,1    ,mGx,-183,mGy,-368,mGz,-406,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241796,RAW DATA         ,mX,1585               ,mY                 ,3956               ,mZ,105  ,mGx,-171,mGy,-379,mGz,-404,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241895,RAW DATA         ,mX,1338               ,mY                 ,3902               ,mZ,867  ,mGx,-154,mGy,-382,mGz,-402,mIso,12
+"Dec 5, 2018 12:37:21 PM",1544042241994,RAW DATA         ,mX,1384               ,mY                 ,3879               ,mZ,-712 ,mGx,-140,mGy,-389,mGz,-408,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242094,RAW DATA         ,mX,847                ,mY                 ,3617               ,mZ,-379 ,mGx,-132,mGy,-389,mGz,-418,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242196,RAW DATA         ,mX,1073               ,mY                 ,4052               ,mZ,-247 ,mGx,-108,mGy,-393,mGz,-403,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242298,RAW DATA         ,mX,828                ,mY                 ,3970               ,mZ,304  ,mGx,-97 ,mGy,-397,mGz,-409,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242398,RAW DATA         ,mX,363                ,mY                 ,4009               ,mZ,-404 ,mGx,-77 ,mGy,-398,mGz,-413,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242496,RAW DATA         ,mX,144                ,mY                 ,3846               ,mZ,-88  ,mGx,-61 ,mGy,-400,mGz,-408,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242595,RAW DATA         ,mX,171                ,mY                 ,4174               ,mZ,-64  ,mGx,-44 ,mGy,-402,mGz,-409,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242702,RAW DATA         ,mX,54                 ,mY                 ,4178               ,mZ,64   ,mGx,-30 ,mGy,-403,mGz,-410,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242795,RAW DATA         ,mX,-238               ,mY                 ,4235               ,mZ,99   ,mGx,-15 ,mGy,-403,mGz,-405,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242895,RAW DATA         ,mX,-117               ,mY                 ,4073               ,mZ,242  ,mGx,2   ,mGy,-401,mGz,-397,mIso,12
+"Dec 5, 2018 12:37:22 PM",1544042242997,RAW DATA         ,mX,-626               ,mY                 ,4114               ,mZ,-315 ,mGx,22  ,mGy,-399,mGz,-407,mIso,11
+"Dec 5, 2018 12:37:23 PM",1544042243098,RAW DATA         ,mX,-502               ,mY                 ,3888               ,mZ,49   ,mGx,33  ,mGy,-397,mGz,-399,mIso,12
+"Dec 5, 2018 12:37:23 PM",1544042243199,RAW DATA         ,mX,-659               ,mY                 ,4076               ,mZ,111  ,mGx,46  ,mGy,-396,mGz,-403,mIso,14
+"Dec 5, 2018 12:37:23 PM",1544042243298,RAW DATA         ,mX,-1215              ,mY                 ,3898               ,mZ,98   ,mGx,62  ,mGy,-393,mGz,-413,mIso,12
+"Dec 5, 2018 12:37:23 PM",1544042243399,RAW DATA         ,mX,-1215              ,mY                 ,4091               ,mZ,131  ,mGx,74  ,mGy,-386,mGz,-404,mIso,12
+"Dec 5, 2018 12:37:23 PM",1544042243499,RAW DATA         ,mX,-1406              ,mY                 ,3929               ,mZ,14   ,mGx,93  ,mGy,-383,mGz,-405,mIso,12
+"Dec 5, 2018 12:37:23 PM",1544042243598,RAW DATA         ,mX,-1466              ,mY                 ,3882               ,mZ,-132 ,mGx,106 ,mGy,-377,mGz,-405,mIso,12
+"Dec 5, 2018 12:37:23 PM",1544042243699,RAW DATA         ,mX,-1870              ,mY                 ,3660               ,mZ,-287 ,mGx,121 ,mGy,-372,mGz,-413,mIso,12
+"Dec 5, 2018 12:37:23 PM",1544042243799,RAW DATA         ,mX,-1839              ,mY                 ,3616               ,mZ,236  ,mGx,134 ,mGy,-366,mGz,-402,mIso,12
+"Dec 5, 2018 12:37:23 PM",1544042243900,RAW DATA         ,mX,-2267              ,mY                 ,3323               ,mZ,-398 ,mGx,150 ,mGy,-356,mGz,-405,mIso,12
+"Dec 5, 2018 12:37:23 PM",1544042243998,RAW DATA         ,mX,-2099              ,mY                 ,3393               ,mZ,139  ,mGx,164 ,mGy,-349,mGz,-405,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244099,RAW DATA         ,mX,-2347              ,mY                 ,3284               ,mZ,-322 ,mGx,175 ,mGy,-343,mGz,-407,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244198,RAW DATA         ,mX,-2505              ,mY                 ,3481               ,mZ,211  ,mGx,194 ,mGy,-328,mGz,-408,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244298,RAW DATA         ,mX,-2704              ,mY                 ,3007               ,mZ,420  ,mGx,201 ,mGy,-323,mGz,-409,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244398,RAW DATA         ,mX,-3035              ,mY                 ,3121               ,mZ,116  ,mGx,214 ,mGy,-312,mGz,-401,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244500,RAW DATA         ,mX,-2962              ,mY                 ,3021               ,mZ,89   ,mGx,223 ,mGy,-304,mGz,-224,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244598,RAW DATA         ,mX,-2703              ,mY                 ,2868               ,mZ,-276 ,mGx,230 ,mGy,-302,mGz,-42 ,mIso,11
+"Dec 5, 2018 12:37:24 PM",1544042244699,RAW DATA         ,mX,-2810              ,mY                 ,2790               ,mZ,-327 ,mGx,231 ,mGy,-300,mGz,-45 ,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244799,RAW DATA         ,mX,-2877              ,mY                 ,3016               ,mZ,260  ,mGx,235 ,mGy,-297,mGz,-46 ,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244901,RAW DATA         ,mX,-2838              ,mY                 ,2782               ,mZ,470  ,mGx,156 ,mGy,-232,mGz,-46 ,mIso,12
+"Dec 5, 2018 12:37:24 PM",1544042244998,RAW DATA         ,mX,-2840              ,mY                 ,2870               ,mZ,-661 ,mGx,31  ,mGy,-109,mGz,-44 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245098,RAW DATA         ,mX,-2829              ,mY                 ,2927               ,mZ,208  ,mGx,-27 ,mGy,-56 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245199,RAW DATA         ,mX,-2843              ,mY                 ,2924               ,mZ,54   ,mGx,-28 ,mGy,-56 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245300,RAW DATA         ,mX,-2853              ,mY                 ,2913               ,mZ,90   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245398,RAW DATA         ,mX,-2839              ,mY                 ,2920               ,mZ,63   ,mGx,-26 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245499,RAW DATA         ,mX,-2846              ,mY                 ,2928               ,mZ,54   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245598,RAW DATA         ,mX,-2834              ,mY                 ,2924               ,mZ,95   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245698,RAW DATA         ,mX,-2843              ,mY                 ,2923               ,mZ,82   ,mGx,-26 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245799,RAW DATA         ,mX,-2847              ,mY                 ,2928               ,mZ,31   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245900,RAW DATA         ,mX,-2859              ,mY                 ,2926               ,mZ,98   ,mGx,-27 ,mGy,-53 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:25 PM",1544042245998,RAW DATA         ,mX,-2848              ,mY                 ,2935               ,mZ,83   ,mGx,-26 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246098,RAW DATA         ,mX,-2844              ,mY                 ,2922               ,mZ,50   ,mGx,-26 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246201,RAW DATA         ,mX,-2842              ,mY                 ,2927               ,mZ,69   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246295,RAW DATA         ,mX,-2853              ,mY                 ,2918               ,mZ,75   ,mGx,-27 ,mGy,-54 ,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246398,RAW DATA         ,mX,-2850              ,mY                 ,2922               ,mZ,58   ,mGx,-26 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246498,RAW DATA         ,mX,-2849              ,mY                 ,2924               ,mZ,54   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246598,RAW DATA         ,mX,-2564              ,mY                 ,3046               ,mZ,94   ,mGx,-26 ,mGy,-55 ,mGz,4   ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246700,RAW DATA         ,mX,-2996              ,mY                 ,2912               ,mZ,80   ,mGx,-24 ,mGy,-54 ,mGz,168 ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246799,RAW DATA         ,mX,-2509              ,mY                 ,3277               ,mZ,1678 ,mGx,-140,mGy,72  ,mGz,308 ,mIso,14
+"Dec 5, 2018 12:37:26 PM",1544042246900,RAW DATA         ,mX,-2703              ,mY                 ,2727               ,mZ,-272 ,mGx,-255,mGy,216 ,mGz,320 ,mIso,12
+"Dec 5, 2018 12:37:26 PM",1544042246998,RAW DATA         ,mX,-2379              ,mY                 ,3060               ,mZ,221  ,mGx,-241,mGy,226 ,mGz,323 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247097,RAW DATA         ,mX,-2167              ,mY                 ,3638               ,mZ,266  ,mGx,-226,mGy,232 ,mGz,320 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247199,RAW DATA         ,mX,-2321              ,mY                 ,3487               ,mZ,221  ,mGx,-213,mGy,240 ,mGz,317 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247299,RAW DATA         ,mX,-1948              ,mY                 ,3728               ,mZ,-152 ,mGx,-199,mGy,250 ,mGz,320 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247398,RAW DATA         ,mX,-1957              ,mY                 ,3857               ,mZ,89   ,mGx,-187,mGy,257 ,mGz,318 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247500,RAW DATA         ,mX,-1418              ,mY                 ,3968               ,mZ,665  ,mGx,-173,mGy,264 ,mGz,334 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247595,RAW DATA         ,mX,-1526              ,mY                 ,3519               ,mZ,-373 ,mGx,-159,mGy,270 ,mGz,317 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247697,RAW DATA         ,mX,-1236              ,mY                 ,3717               ,mZ,359  ,mGx,-141,mGy,275 ,mGz,330 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247795,RAW DATA         ,mX,-1004              ,mY                 ,3930               ,mZ,-77  ,mGx,-126,mGy,282 ,mGz,323 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247896,RAW DATA         ,mX,-917               ,mY                 ,4151               ,mZ,120  ,mGx,-113,mGy,285 ,mGz,324 ,mIso,12
+"Dec 5, 2018 12:37:27 PM",1544042247998,RAW DATA         ,mX,-693               ,mY                 ,4244               ,mZ,30   ,mGx,-96 ,mGy,285 ,mGz,325 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248099,RAW DATA         ,mX,-452               ,mY                 ,4241               ,mZ,274  ,mGx,-81 ,mGy,289 ,mGz,326 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248198,RAW DATA         ,mX,-223               ,mY                 ,4157               ,mZ,-85  ,mGx,-65 ,mGy,291 ,mGz,278 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248300,RAW DATA         ,mX,-299               ,mY                 ,4230               ,mZ,495  ,mGx,-63 ,mGy,289 ,mGz,102 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248398,RAW DATA         ,mX,-445               ,mY                 ,4045               ,mZ,-719 ,mGx,-58 ,mGy,289 ,mGz,-24 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248498,RAW DATA         ,mX,-383               ,mY                 ,3894               ,mZ,235  ,mGx,-58 ,mGy,291 ,mGz,-37 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248599,RAW DATA         ,mX,-301               ,mY                 ,4117               ,mZ,-261 ,mGx,-44 ,mGy,114 ,mGz,-35 ,mIso,14
+"Dec 5, 2018 12:37:28 PM",1544042248699,RAW DATA         ,mX,-304               ,mY                 ,4056               ,mZ,-18  ,mGx,-27 ,mGy,-53 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248799,RAW DATA         ,mX,-298               ,mY                 ,4110               ,mZ,29   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248902,RAW DATA         ,mX,-315               ,mY                 ,4104               ,mZ,75   ,mGx,-28 ,mGy,-56 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:28 PM",1544042248999,RAW DATA         ,mX,-296               ,mY                 ,4101               ,mZ,67   ,mGx,-27 ,mGy,-55 ,mGz,-40 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249100,RAW DATA         ,mX,-305               ,mY                 ,4098               ,mZ,42   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249200,RAW DATA         ,mX,-309               ,mY                 ,4103               ,mZ,62   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249298,RAW DATA         ,mX,-284               ,mY                 ,4102               ,mZ,87   ,mGx,-28 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249399,RAW DATA         ,mX,-304               ,mY                 ,4108               ,mZ,69   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249498,RAW DATA         ,mX,-308               ,mY                 ,4102               ,mZ,46   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249599,RAW DATA         ,mX,-314               ,mY                 ,4103               ,mZ,86   ,mGx,-27 ,mGy,-56 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249699,RAW DATA         ,mX,-322               ,mY                 ,4104               ,mZ,70   ,mGx,-27 ,mGy,-55 ,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249798,RAW DATA         ,mX,-302               ,mY                 ,4106               ,mZ,55   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249899,RAW DATA         ,mX,-293               ,mY                 ,4109               ,mZ,56   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:29 PM",1544042249998,RAW DATA         ,mX,-315               ,mY                 ,4116               ,mZ,79   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042250099,RAW DATA         ,mX,-313               ,mY                 ,4110               ,mZ,51   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042250198,RAW DATA         ,mX,-310               ,mY                 ,4111               ,mZ,53   ,mGx,-27 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042250299,RAW DATA         ,mX,-307               ,mY                 ,4106               ,mZ,86   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042250399,RAW DATA         ,mX,-306               ,mY                 ,4102               ,mZ,62   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,11
+"Dec 5, 2018 12:37:30 PM",1544042250495,RAW DATA         ,mX,-311               ,mY                 ,4115               ,mZ,91   ,mGx,-26 ,mGy,-53 ,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042250598,RAW DATA         ,mX,-347               ,mY                 ,4089               ,mZ,16   ,mGx,-26 ,mGy,-53 ,mGz,-43 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042250703,RAW DATA         ,mX,-298               ,mY                 ,4104               ,mZ,110  ,mGx,-28 ,mGy,-52 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042250798,RAW DATA         ,mX,-296               ,mY                 ,4101               ,mZ,20   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042250900,RAW DATA         ,mX,-314               ,mY                 ,4113               ,mZ,94   ,mGx,-28 ,mGy,-53 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:30 PM",1544042251000,RAW DATA         ,mX,-290               ,mY                 ,4115               ,mZ,56   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251100,RAW DATA         ,mX,-304               ,mY                 ,4095               ,mZ,54   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251199,RAW DATA         ,mX,-313               ,mY                 ,4110               ,mZ,80   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251300,RAW DATA         ,mX,-302               ,mY                 ,4107               ,mZ,72   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251399,RAW DATA         ,mX,-294               ,mY                 ,4114               ,mZ,92   ,mGx,-27 ,mGy,-52 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251499,RAW DATA         ,mX,-312               ,mY                 ,4104               ,mZ,47   ,mGx,-26 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251598,RAW DATA         ,mX,-310               ,mY                 ,4111               ,mZ,100  ,mGx,-26 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251698,RAW DATA         ,mX,-299               ,mY                 ,4101               ,mZ,45   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251799,RAW DATA         ,mX,-311               ,mY                 ,4115               ,mZ,54   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251899,RAW DATA         ,mX,-308               ,mY                 ,4109               ,mZ,62   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:31 PM",1544042251998,RAW DATA         ,mX,-301               ,mY                 ,4102               ,mZ,76   ,mGx,-28 ,mGy,-55 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252098,RAW DATA         ,mX,-318               ,mY                 ,4119               ,mZ,51   ,mGx,-26 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252199,RAW DATA         ,mX,-292               ,mY                 ,4105               ,mZ,41   ,mGx,-26 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252299,RAW DATA         ,mX,-306               ,mY                 ,4105               ,mZ,76   ,mGx,-26 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252398,RAW DATA         ,mX,-308               ,mY                 ,4100               ,mZ,60   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252501,RAW DATA         ,mX,-296               ,mY                 ,4121               ,mZ,53   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252599,RAW DATA         ,mX,-303               ,mY                 ,4117               ,mZ,68   ,mGx,-28 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252703,RAW DATA         ,mX,-312               ,mY                 ,4102               ,mZ,55   ,mGx,-27 ,mGy,-55 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252798,RAW DATA         ,mX,-312               ,mY                 ,4116               ,mZ,44   ,mGx,-27 ,mGy,-54 ,mGz,-42 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252899,RAW DATA         ,mX,-296               ,mY                 ,4109               ,mZ,76   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:32 PM",1544042252998,RAW DATA         ,mX,-324               ,mY                 ,4092               ,mZ,74   ,mGx,-26 ,mGy,-56 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:33 PM",1544042253099,RAW DATA         ,mX,-306               ,mY                 ,4110               ,mZ,52   ,mGx,-28 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:33 PM",1544042253200,RAW DATA         ,mX,-307               ,mY                 ,4106               ,mZ,50   ,mGx,-26 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:33 PM",1544042253295,RAW DATA         ,mX,-317               ,mY                 ,4106               ,mZ,80   ,mGx,-27 ,mGy,-54 ,mGz,-41 ,mIso,12
+"Dec 5, 2018 12:37:33 PM",1544042253299,CANCEL

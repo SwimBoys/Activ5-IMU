@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Activ5Device",
+        "repositoryURL": "https://github.com/Activbody-ChinaJV/activ5-ios-bluetooth",
+        "state": {
+          "branch": "develop",
+          "revision": "cdce2a2873fc4ef55f7c4e2997239ac0cfb29d08",
+          "version": null
+        }
+      },
+      {
+        "package": "Hamilton",
+        "repositoryURL": "https://github.com/martin-key/Hamilton",
+        "state": {
+          "branch": "master",
+          "revision": "986f9d897910aa998ac6188590a6572495c30a6f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

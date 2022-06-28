@@ -1,0 +1,1505 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		074DD8E8282E4AAC273656C2E70ECDE5 /* CBCharacteristicExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9831A6B9A59A892061B1D273348CBB6 /* CBCharacteristicExtensions.swift */; };
+		08F0E2245B7F754B06ABF18875FB195C /* Rotateable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 706B333C0E04A7E734F5D70D6DCF316E /* Rotateable.swift */; };
+		0919BC44AC7DF2C835523EDED60BF320 /* AngleConvertible.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24919F7AB860E37DF177817EBDABFDE /* AngleConvertible.swift */; };
+		0CA80ED7E59E6BCE64CEEE649A3C6D2F /* SVProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A9CFAFB698DD2C925F9B308B6B5932 /* SVProgressHUD.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0DB8EA4D67CD7E9741EC393BFAB4658B /* Activ5Device.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1650DCEB22C7C8A41DCC7A44A68A1005 /* Activ5Device.framework */; };
+		12A8939696201ECA28EA66394551144B /* VectorableFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C12F5724DC3E1A7FB6662144AB39E08 /* VectorableFormatter.swift */; };
+		134C7D4B6A5F944866084A3FF50FF50B /* Hamilton.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59724E65B9F1DDE2BE2B78BD23242D9C /* Hamilton.framework */; };
+		157060D05F748FD6CC2A2C14D79416AF /* Vector2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 512758B53D888FD6CA9D6CCA1A005367 /* Vector2.swift */; };
+		180D5AFEA9CBF89B94448911B621C7E0 /* EulerAngles+Equatable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F906E493C05D05D22C6257D21DC7AEA /* EulerAngles+Equatable.swift */; };
+		1B98F3349ABCA76055DB8C1D880CD85C /* DoubleSqeezeHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDD7746464F7B78C165525A4EA7A480 /* DoubleSqeezeHelper.swift */; };
+		21CB2C728B92090B565B6FEE4339F893 /* Pods-Activ5-IMU_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B581938A9EC36AE46BE1DFC1286B7CDE /* Pods-Activ5-IMU_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		264E1A478BDFA31DA6842749C72EA535 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4EB7DEEB99FE9CCC44D13F296DAFDB0F /* SVProgressHUD.bundle */; };
+		276F3998D68CA0363598DAD7170427A5 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57030376FBBB9581306A5B4401208FA0 /* CoreBluetooth.framework */; };
+		2FEFD98E3748837FD0D2B91817EC4657 /* Activ5-IMU-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CBD558372EDF03FE3C4C11490C1D989 /* Activ5-IMU-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		33106C37D8D9641CFF20BD026320B18A /* VectorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2053EDA817F17B1EE224925D0EE26296 /* VectorExtension.swift */; };
+		3392F8407B8C6F47A4E47436894642D8 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = E5A35346ED2C3AF2651D55F34222EAE6 /* SVProgressHUD.m */; };
+		3B2ABE42BD7E0825631F905171151041 /* Orientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF7EE548BD2CAE9DF6F5E758AFCE2910 /* Orientation.swift */; };
+		4600231794F729BDA40AA3D369ACE23A /* Vector4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE3B4C0BA67B53B89DD7641C60FE320 /* Vector4.swift */; };
+		4907AFE56269B2491F32331EA718F4A3 /* EulerAngles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3162CBA4368B6AB3D94430780D029B /* EulerAngles.swift */; };
+		4D985514B69BEBE6B4257188B0F741B1 /* OrientationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB222C21443C6BC5BB2E75E4C45EE58A /* OrientationProvider.swift */; };
+		5AC35AC35DB8835295DD38455B15CFB8 /* A5Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BCEA926C7B333BFB368BAB9928D81F /* A5Device.swift */; };
+		60263468F6EACBAB15B2E53D9CE8090A /* Hamilton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 96BA3188310F42222A400EA339945DCB /* Hamilton-dummy.m */; };
+		6C84620C1FD5B54B5DE09C035402D65A /* A5DeviceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E70B9644D645C845702B1FCA2C7D6F92 /* A5DeviceManager.swift */; };
+		707F3BAFDBE3F2B7ADC94F823ADFBEDE /* Activ5Device-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FD443A1E1072C53E66AF8E61B7E2A065 /* Activ5Device-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		74CA6E3D99D747FF41D3C5A151A40214 /* Pods-Activ5-IMU_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FB4BAAFC20B117CD3266E47F7E12428F /* Pods-Activ5-IMU_Example-dummy.m */; };
+		76065A5B08FE6E1FD8C61D4C363152A5 /* QuaternionExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E109E54A5F7C11CFC21BE4B571803F2 /* QuaternionExtension.swift */; };
+		8394C24654483FE69CE564D12AC4614F /* Vector3.swift in Sources */ = {isa = PBXBuildFile; fileRef = C202EA419DC16D77A43CF01318E9B8CB /* Vector3.swift */; };
+		8521F46CC3E427C64330CCB41ADFF619 /* Vectorable+SceneKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155FABB84270CED4B22AB6E153865556 /* Vectorable+SceneKit.swift */; };
+		8AB8E029B6B95B12EB6A4966CEF7ABF6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E84FEEE0EC2D481286E35E127BFBC69 /* Foundation.framework */; };
+		8ADC250DE3E1134954ADEC46E8066D55 /* MessageParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0198D99EE07E0CE6B031AE69DB5143 /* MessageParser.swift */; };
+		8B8F976D08D1C6EF996E3DAA1C6EFE74 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E84FEEE0EC2D481286E35E127BFBC69 /* Foundation.framework */; };
+		911E5C4D845BE7B13DA46712D4092586 /* KalmanFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0ED12A4E4E3D8ADCCA8B142015BF05 /* KalmanFilter.swift */; };
+		92DFCCA8FFD06BC72CC0E55BF0161674 /* Vectorable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F10BE157BAB4C8746908BD7B9F938E /* Vectorable.swift */; };
+		96EADE99073DBA8FCE7904627E2D18EE /* SVIndefiniteAnimatedView.h in Headers */ = {isa = PBXBuildFile; fileRef = EB22B536652D818E2F23E0DC3A35E46F /* SVIndefiniteAnimatedView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		98D315158C41EAD5E79F24EF47050713 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E84FEEE0EC2D481286E35E127BFBC69 /* Foundation.framework */; };
+		99456829035D2883017E8EBCDB82C231 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A02CF5B6AFADE0C275A16FEB4D3D83BB /* QuartzCore.framework */; };
+		9FDEEEE37349769B84A30B0105DFF456 /* SVProgressHUD-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 046751C4EDC24B41C905E541778BB628 /* SVProgressHUD-dummy.m */; };
+		9FE5183F483E13701079EEF67191AE88 /* Pods-Activ5-IMU_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D253B2A97688EA94BC5283289CCDCBD6 /* Pods-Activ5-IMU_Tests-dummy.m */; };
+		A14E15B767EB4600337309311F5384E5 /* Activ5-IMU-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C556B463721942A48FEC8AC3B440B2DA /* Activ5-IMU-dummy.m */; };
+		ADA5A43FDB2406DCDB1B47A8CE0C9112 /* IMUObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3769DCC5A29F1AE937B7B44FBD5D54FF /* IMUObject.swift */; };
+		B173FF2C00912D4B0D2B6A0D5FEEC0DF /* Scalar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 720AD344003E4AC8F90FE3CAA39C70B7 /* Scalar.swift */; };
+		B229AEFF5013C63B2AD66C9E9C8DE12B /* EulerAngles+Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28893FF2974E313EDC2C877510C67258 /* EulerAngles+Operators.swift */; };
+		B45819B71ABD10DBA5CF93E648E0E94E /* Quaternion.swift in Sources */ = {isa = PBXBuildFile; fileRef = B74E1544CCB4162B96F1BB4C0AB86C01 /* Quaternion.swift */; };
+		B5B9915F785CB47C5C07F0B698911B00 /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7758B16F8F61D23C527148060862AF7 /* SVIndefiniteAnimatedView.m */; };
+		BB36729E621B22B3FF681CBEA534D492 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E84FEEE0EC2D481286E35E127BFBC69 /* Foundation.framework */; };
+		C302B7598E5B0BDDEE4CFDB4DFD911B3 /* Activ5Device-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D67CA23F7C35D5647A211C39E4C0F19A /* Activ5Device-dummy.m */; };
+		CD637CC5F97966DA1A1E128990BC7FE4 /* Pods-Activ5-IMU_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 61228BA5837EB52CBFF0C4F677DE0183 /* Pods-Activ5-IMU_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D2246BE5AF9C116D84444CC5C955BC02 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = F80A83E280829AF84C38CA53094C24F9 /* SVRadialGradientLayer.m */; };
+		D4914107FF5A197B9D0BC6D1C089E33D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E84FEEE0EC2D481286E35E127BFBC69 /* Foundation.framework */; };
+		D87B2D5ED73534ACF97CE0A52FA18AE4 /* SVRadialGradientLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = BFBC2A8A85906D79B92E043A972ADD00 /* SVRadialGradientLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DE12057AB8895931A0E9499619C5CFC8 /* SVProgressHUD-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 549A43BB547806D5F5F4DB4F5720CA88 /* SVProgressHUD-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E0186A63060F0EB3676F95CD0ACE0E18 /* SVProgressAnimatedView.h in Headers */ = {isa = PBXBuildFile; fileRef = F96E480D59152BF998F9407AE5AB8D4F /* SVProgressAnimatedView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EEAA1518C49804736C3F40117D064CBE /* SVProgressAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FEDE28CE39F92398649F719F6D5486E /* SVProgressAnimatedView.m */; };
+		F671AA8FA1B38232AF0F329988AAA97A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E84FEEE0EC2D481286E35E127BFBC69 /* Foundation.framework */; };
+		F6D9F3850480272624135C79B3632D65 /* Hamilton-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D9B1B8E2BE30095AE5B6AE705F487144 /* Hamilton-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		05FE71C8C03D105C9177F81A1B29823A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 722F6346583A0BDB06113F199632F67D;
+			remoteInfo = Activ5Device;
+		};
+		26021B14EF4AB63018BF4B1207A4F207 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 407B3A24967333162BC48260A4A3083B;
+			remoteInfo = "Activ5-IMU";
+		};
+		411139B3C06399D19FDF33EBB5F5C2E3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 722F6346583A0BDB06113F199632F67D;
+			remoteInfo = Activ5Device;
+		};
+		ADCF5EEA3D7B36176D31C2EAB7AE7226 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1C8D67D8B72D6BA42CCEDB648537A340;
+			remoteInfo = SVProgressHUD;
+		};
+		C110831A8EE66B20E2B065525987D836 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1E0DC86BF304832E89B1BD167488434A;
+			remoteInfo = Hamilton;
+		};
+		CE2BD4528387562E51AEEA19D1CF2EB1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 48385319202D1EA46E2B0AB7B74868DE;
+			remoteInfo = "Pods-Activ5-IMU_Example";
+		};
+		F5EA28CBA14DB295BFF29C375751D49C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1E0DC86BF304832E89B1BD167488434A;
+			remoteInfo = Hamilton;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		01BCEA926C7B333BFB368BAB9928D81F /* A5Device.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = A5Device.swift; path = Sources/Activ5Device/A5Device.swift; sourceTree = "<group>"; };
+		0260182D01CCE42969F952C908408336 /* Activ5Device.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Activ5Device.xcconfig; sourceTree = "<group>"; };
+		046751C4EDC24B41C905E541778BB628 /* SVProgressHUD-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SVProgressHUD-dummy.m"; sourceTree = "<group>"; };
+		0A0AD674D1A64C892CFCA46DC018EFDB /* SVProgressHUD.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SVProgressHUD.modulemap; sourceTree = "<group>"; };
+		0DF847C63449AB634501F0228EE641C2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		0FEDE28CE39F92398649F719F6D5486E /* SVProgressAnimatedView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SVProgressAnimatedView.m; path = SVProgressHUD/SVProgressAnimatedView.m; sourceTree = "<group>"; };
+		113AB275AEF512711C475B58F2DCA19C /* Activ5_IMU.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Activ5_IMU.framework; path = "Activ5-IMU.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12F5AC09D110AA67D6C652DF914EF0CD /* Pods-Activ5-IMU_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Activ5-IMU_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		155FABB84270CED4B22AB6E153865556 /* Vectorable+SceneKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Vectorable+SceneKit.swift"; path = "Sources/Hamilton/SceneKitExtensions/Vectorable+SceneKit.swift"; sourceTree = "<group>"; };
+		1650DCEB22C7C8A41DCC7A44A68A1005 /* Activ5Device.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Activ5Device.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		19887BEBD56884857999288F3EF11CA8 /* Activ5-IMU.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Activ5-IMU.modulemap"; sourceTree = "<group>"; };
+		1C12F5724DC3E1A7FB6662144AB39E08 /* VectorableFormatter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VectorableFormatter.swift; path = Sources/Hamilton/VectorableFormatter.swift; sourceTree = "<group>"; };
+		1C3162CBA4368B6AB3D94430780D029B /* EulerAngles.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EulerAngles.swift; path = Sources/Hamilton/EulerAngles/EulerAngles.swift; sourceTree = "<group>"; };
+		1F0198D99EE07E0CE6B031AE69DB5143 /* MessageParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageParser.swift; path = Sources/Activ5Device/MessageParser.swift; sourceTree = "<group>"; };
+		1F0ED12A4E4E3D8ADCCA8B142015BF05 /* KalmanFilter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KalmanFilter.swift; path = "Sources/Activ5-IMU/KalmanFilter.swift"; sourceTree = "<group>"; };
+		1F906E493C05D05D22C6257D21DC7AEA /* EulerAngles+Equatable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EulerAngles+Equatable.swift"; path = "Sources/Hamilton/EulerAngles/EulerAngles+Equatable.swift"; sourceTree = "<group>"; };
+		2053EDA817F17B1EE224925D0EE26296 /* VectorExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VectorExtension.swift; path = "Sources/Activ5-IMU/VectorExtension.swift"; sourceTree = "<group>"; };
+		264D65AB8788B5365030C8923DDA59B3 /* SVProgressHUD-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SVProgressHUD-Info.plist"; sourceTree = "<group>"; };
+		27AA8558F7625BB8D6F13DE0732FC186 /* Pods_Activ5_IMU_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Activ5_IMU_Tests.framework; path = "Pods-Activ5-IMU_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		28893FF2974E313EDC2C877510C67258 /* EulerAngles+Operators.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "EulerAngles+Operators.swift"; path = "Sources/Hamilton/EulerAngles/EulerAngles+Operators.swift"; sourceTree = "<group>"; };
+		2CBD558372EDF03FE3C4C11490C1D989 /* Activ5-IMU-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Activ5-IMU-umbrella.h"; sourceTree = "<group>"; };
+		2F25D1D23C2E2163E8FDBF0034941CFD /* SVProgressHUD-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD-prefix.pch"; sourceTree = "<group>"; };
+		34F79D87C11B5B8261FCE27686262111 /* Activ5Device-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Activ5Device-Info.plist"; sourceTree = "<group>"; };
+		3769DCC5A29F1AE937B7B44FBD5D54FF /* IMUObject.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IMUObject.swift; path = Sources/Activ5Device/IMUObject.swift; sourceTree = "<group>"; };
+		3836B3F5FC01DF4E27ABD93FD1192EE6 /* Pods-Activ5-IMU_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Activ5-IMU_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		419F533ABA2B203C1334EC91DC452BDD /* Pods-Activ5-IMU_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Activ5-IMU_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		41F10BE157BAB4C8746908BD7B9F938E /* Vectorable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Vectorable.swift; path = Sources/Hamilton/Vectorable.swift; sourceTree = "<group>"; };
+		4E84FEEE0EC2D481286E35E127BFBC69 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		4EB7DEEB99FE9CCC44D13F296DAFDB0F /* SVProgressHUD.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = SVProgressHUD.bundle; path = SVProgressHUD/SVProgressHUD.bundle; sourceTree = "<group>"; };
+		4EE3B4C0BA67B53B89DD7641C60FE320 /* Vector4.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Vector4.swift; path = Sources/Hamilton/Vectors/Vector4.swift; sourceTree = "<group>"; };
+		4F80E49B0118FDB3F27E014F6D4F2ACB /* Activ5Device-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Activ5Device-prefix.pch"; sourceTree = "<group>"; };
+		512758B53D888FD6CA9D6CCA1A005367 /* Vector2.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Vector2.swift; path = Sources/Hamilton/Vectors/Vector2.swift; sourceTree = "<group>"; };
+		53DA0BA4AC5F7864E00149B4DEFA1E6D /* Pods-Activ5-IMU_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Activ5-IMU_Example-frameworks.sh"; sourceTree = "<group>"; };
+		549A43BB547806D5F5F4DB4F5720CA88 /* SVProgressHUD-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD-umbrella.h"; sourceTree = "<group>"; };
+		57030376FBBB9581306A5B4401208FA0 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreBluetooth.framework; sourceTree = DEVELOPER_DIR; };
+		57B1B8E2D57F726C8DBC725D6CE9FF25 /* Pods-Activ5-IMU_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Activ5-IMU_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		59724E65B9F1DDE2BE2B78BD23242D9C /* Hamilton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Hamilton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		61228BA5837EB52CBFF0C4F677DE0183 /* Pods-Activ5-IMU_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Activ5-IMU_Example-umbrella.h"; sourceTree = "<group>"; };
+		65A96624153565B68106624AD7488EF2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		6A2BF2765A30A03AA62306C1A0242A18 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		6ABA49B198972A39ACBF3C6287998456 /* Pods_Activ5_IMU_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Activ5_IMU_Example.framework; path = "Pods-Activ5-IMU_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E109E54A5F7C11CFC21BE4B571803F2 /* QuaternionExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = QuaternionExtension.swift; path = "Sources/Activ5-IMU/QuaternionExtension.swift"; sourceTree = "<group>"; };
+		6EDD3B2E52E4A4344F0F6B2CFFA5D3AF /* Hamilton.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Hamilton.xcconfig; sourceTree = "<group>"; };
+		706B333C0E04A7E734F5D70D6DCF316E /* Rotateable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Rotateable.swift; path = Sources/Hamilton/Rotateable.swift; sourceTree = "<group>"; };
+		720AD344003E4AC8F90FE3CAA39C70B7 /* Scalar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Scalar.swift; path = Sources/Hamilton/Scalar.swift; sourceTree = "<group>"; };
+		75BD1D2180F3408B9FF94F5471B2820A /* Hamilton.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Hamilton.modulemap; sourceTree = "<group>"; };
+		839F2DCE2F8A4698639E534FEA01A6E8 /* Hamilton-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Hamilton-Info.plist"; sourceTree = "<group>"; };
+		84A9CFAFB698DD2C925F9B308B6B5932 /* SVProgressHUD.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SVProgressHUD.h; path = SVProgressHUD/SVProgressHUD.h; sourceTree = "<group>"; };
+		8E08C721A283FBEA188A51209040A609 /* Pods-Activ5-IMU_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Activ5-IMU_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		8EEB3BF8FFFAA4AE69B733109DA8F0B7 /* Activ5-IMU.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "Activ5-IMU.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8FDD7746464F7B78C165525A4EA7A480 /* DoubleSqeezeHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DoubleSqeezeHelper.swift; path = Sources/Activ5Device/DoubleSqeezeHelper.swift; sourceTree = "<group>"; };
+		96BA3188310F42222A400EA339945DCB /* Hamilton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Hamilton-dummy.m"; sourceTree = "<group>"; };
+		9C4F495CE19AD5D4754362A468BBE154 /* Activ5Device.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Activ5Device.framework; path = Activ5Device.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9F3AB85CA6490C29E83F32EF5A193AB7 /* Activ5-IMU-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Activ5-IMU-Info.plist"; sourceTree = "<group>"; };
+		A02CF5B6AFADE0C275A16FEB4D3D83BB /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
+		A4EAA64BC02E9035124DF37F3A0B19E5 /* Pods-Activ5-IMU_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Activ5-IMU_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		AABFA4B510D714B527AFE068F3D5FC06 /* Activ5-IMU.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Activ5-IMU.xcconfig"; sourceTree = "<group>"; };
+		AEC597949C401BA62B1BEB9EB4C69DD3 /* Hamilton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Hamilton-prefix.pch"; sourceTree = "<group>"; };
+		B24919F7AB860E37DF177817EBDABFDE /* AngleConvertible.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AngleConvertible.swift; path = Sources/Hamilton/AngleConvertible.swift; sourceTree = "<group>"; };
+		B581938A9EC36AE46BE1DFC1286B7CDE /* Pods-Activ5-IMU_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Activ5-IMU_Tests-umbrella.h"; sourceTree = "<group>"; };
+		B599B804E6B3C8C0F5CBDB4A821394D6 /* Pods-Activ5-IMU_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Activ5-IMU_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		B74E1544CCB4162B96F1BB4C0AB86C01 /* Quaternion.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Quaternion.swift; path = Sources/Hamilton/Quaternion.swift; sourceTree = "<group>"; };
+		BFBC2A8A85906D79B92E043A972ADD00 /* SVRadialGradientLayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SVRadialGradientLayer.h; path = SVProgressHUD/SVRadialGradientLayer.h; sourceTree = "<group>"; };
+		C202EA419DC16D77A43CF01318E9B8CB /* Vector3.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Vector3.swift; path = Sources/Hamilton/Vectors/Vector3.swift; sourceTree = "<group>"; };
+		C399660F62E032EA4B3BB1C35DAD390D /* Pods-Activ5-IMU_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Activ5-IMU_Tests-Info.plist"; sourceTree = "<group>"; };
+		C454C3448DE925424046AE73CE5F134D /* Pods-Activ5-IMU_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Activ5-IMU_Tests.modulemap"; sourceTree = "<group>"; };
+		C556B463721942A48FEC8AC3B440B2DA /* Activ5-IMU-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Activ5-IMU-dummy.m"; sourceTree = "<group>"; };
+		C9831A6B9A59A892061B1D273348CBB6 /* CBCharacteristicExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CBCharacteristicExtensions.swift; path = Sources/Activ5Device/CBCharacteristicExtensions.swift; sourceTree = "<group>"; };
+		CB222C21443C6BC5BB2E75E4C45EE58A /* OrientationProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OrientationProvider.swift; path = "Sources/Activ5-IMU/OrientationProvider.swift"; sourceTree = "<group>"; };
+		CC5A6A30CF80034B95FE1D498511350B /* Pods-Activ5-IMU_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Activ5-IMU_Example.release.xcconfig"; sourceTree = "<group>"; };
+		D25261BA6C3EB8AD33E2BE71FA133B37 /* Activ5-IMU-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Activ5-IMU-prefix.pch"; sourceTree = "<group>"; };
+		D253B2A97688EA94BC5283289CCDCBD6 /* Pods-Activ5-IMU_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Activ5-IMU_Tests-dummy.m"; sourceTree = "<group>"; };
+		D2C20D809F270164CBDBDC948F65A7A0 /* Hamilton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Hamilton.framework; path = Hamilton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D5111F1E86AAF2E59C1C7AA56D1FDE86 /* SVProgressHUD.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SVProgressHUD.xcconfig; sourceTree = "<group>"; };
+		D67CA23F7C35D5647A211C39E4C0F19A /* Activ5Device-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Activ5Device-dummy.m"; sourceTree = "<group>"; };
+		D7758B16F8F61D23C527148060862AF7 /* SVIndefiniteAnimatedView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SVIndefiniteAnimatedView.m; path = SVProgressHUD/SVIndefiniteAnimatedView.m; sourceTree = "<group>"; };
+		D9B1B8E2BE30095AE5B6AE705F487144 /* Hamilton-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Hamilton-umbrella.h"; sourceTree = "<group>"; };
+		DEF0233BD4480498153ED4228E3D8F69 /* Pods-Activ5-IMU_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Activ5-IMU_Example-Info.plist"; sourceTree = "<group>"; };
+		E5A35346ED2C3AF2651D55F34222EAE6 /* SVProgressHUD.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SVProgressHUD.m; path = SVProgressHUD/SVProgressHUD.m; sourceTree = "<group>"; };
+		E70B9644D645C845702B1FCA2C7D6F92 /* A5DeviceManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = A5DeviceManager.swift; path = Sources/Activ5Device/A5DeviceManager.swift; sourceTree = "<group>"; };
+		E97D43C46A45EE515A4DA3AF94398441 /* SVProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SVProgressHUD.framework; path = SVProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA84B7BAD5C2897B135143CD1B60CD9A /* Activ5Device.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Activ5Device.modulemap; sourceTree = "<group>"; };
+		EB22B536652D818E2F23E0DC3A35E46F /* SVIndefiniteAnimatedView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SVIndefiniteAnimatedView.h; path = SVProgressHUD/SVIndefiniteAnimatedView.h; sourceTree = "<group>"; };
+		F80A83E280829AF84C38CA53094C24F9 /* SVRadialGradientLayer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SVRadialGradientLayer.m; path = SVProgressHUD/SVRadialGradientLayer.m; sourceTree = "<group>"; };
+		F8FBF3B74F836C4CC04758950F0A1209 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		F96E480D59152BF998F9407AE5AB8D4F /* SVProgressAnimatedView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SVProgressAnimatedView.h; path = SVProgressHUD/SVProgressAnimatedView.h; sourceTree = "<group>"; };
+		FA504B40C274A465E6009F127DA16743 /* Activ5Device.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Activ5Device.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FB4BAAFC20B117CD3266E47F7E12428F /* Pods-Activ5-IMU_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Activ5-IMU_Example-dummy.m"; sourceTree = "<group>"; };
+		FBBA1AE6F58B6674CF9AD13FE341354C /* Pods-Activ5-IMU_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Activ5-IMU_Example.modulemap"; sourceTree = "<group>"; };
+		FD443A1E1072C53E66AF8E61B7E2A065 /* Activ5Device-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Activ5Device-umbrella.h"; sourceTree = "<group>"; };
+		FF7EE548BD2CAE9DF6F5E758AFCE2910 /* Orientation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Orientation.swift; path = "Sources/Activ5-IMU/Orientation.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		50D596DDC773C8BF42F8D9710D6E0140 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B8F976D08D1C6EF996E3DAA1C6EFE74 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57D3894304062838B2AF4BF8CA767414 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				276F3998D68CA0363598DAD7170427A5 /* CoreBluetooth.framework in Frameworks */,
+				F671AA8FA1B38232AF0F329988AAA97A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		69AB35DF05B7DAD9F9047FB8A5A18C25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8AB8E029B6B95B12EB6A4966CEF7ABF6 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		901F789F14085AFAD953131159D56A25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0DB8EA4D67CD7E9741EC393BFAB4658B /* Activ5Device.framework in Frameworks */,
+				BB36729E621B22B3FF681CBEA534D492 /* Foundation.framework in Frameworks */,
+				134C7D4B6A5F944866084A3FF50FF50B /* Hamilton.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B3D1D1191F24E31CEEA04BDB3FB4C0F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D4914107FF5A197B9D0BC6D1C089E33D /* Foundation.framework in Frameworks */,
+				99456829035D2883017E8EBCDB82C231 /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D1B77A1628DC5FFF754009037BD34DB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98D315158C41EAD5E79F24EF47050713 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		022997A799E4DE6CABC6BD4CF43B30E2 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				28F0413763724E13B4B2697F709D1386 /* Pods-Activ5-IMU_Example */,
+				3AC29E1938EF9D53B7C8E191DA9A962D /* Pods-Activ5-IMU_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		02DC087A89B60EF516598E792A34477F /* Hamilton */ = {
+			isa = PBXGroup;
+			children = (
+				B24919F7AB860E37DF177817EBDABFDE /* AngleConvertible.swift */,
+				1C3162CBA4368B6AB3D94430780D029B /* EulerAngles.swift */,
+				1F906E493C05D05D22C6257D21DC7AEA /* EulerAngles+Equatable.swift */,
+				28893FF2974E313EDC2C877510C67258 /* EulerAngles+Operators.swift */,
+				B74E1544CCB4162B96F1BB4C0AB86C01 /* Quaternion.swift */,
+				706B333C0E04A7E734F5D70D6DCF316E /* Rotateable.swift */,
+				720AD344003E4AC8F90FE3CAA39C70B7 /* Scalar.swift */,
+				512758B53D888FD6CA9D6CCA1A005367 /* Vector2.swift */,
+				C202EA419DC16D77A43CF01318E9B8CB /* Vector3.swift */,
+				4EE3B4C0BA67B53B89DD7641C60FE320 /* Vector4.swift */,
+				41F10BE157BAB4C8746908BD7B9F938E /* Vectorable.swift */,
+				155FABB84270CED4B22AB6E153865556 /* Vectorable+SceneKit.swift */,
+				1C12F5724DC3E1A7FB6662144AB39E08 /* VectorableFormatter.swift */,
+				FF84BEAA1DAD2BC2EB3BA4B05BBB0279 /* Support Files */,
+			);
+			name = Hamilton;
+			path = Hamilton;
+			sourceTree = "<group>";
+		};
+		15898EA5129C4BF79DB59985A57E6F7B /* SVProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				EB22B536652D818E2F23E0DC3A35E46F /* SVIndefiniteAnimatedView.h */,
+				D7758B16F8F61D23C527148060862AF7 /* SVIndefiniteAnimatedView.m */,
+				F96E480D59152BF998F9407AE5AB8D4F /* SVProgressAnimatedView.h */,
+				0FEDE28CE39F92398649F719F6D5486E /* SVProgressAnimatedView.m */,
+				84A9CFAFB698DD2C925F9B308B6B5932 /* SVProgressHUD.h */,
+				E5A35346ED2C3AF2651D55F34222EAE6 /* SVProgressHUD.m */,
+				BFBC2A8A85906D79B92E043A972ADD00 /* SVRadialGradientLayer.h */,
+				F80A83E280829AF84C38CA53094C24F9 /* SVRadialGradientLayer.m */,
+				8E57A9E2DCA2DDA67B5FF963B6AF52C3 /* Resources */,
+				F3CDE78CA30EF59C746C969FFDE3C451 /* Support Files */,
+			);
+			name = SVProgressHUD;
+			path = SVProgressHUD;
+			sourceTree = "<group>";
+		};
+		1DEB7EFA3645D0038866E01AE43C6375 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				19887BEBD56884857999288F3EF11CA8 /* Activ5-IMU.modulemap */,
+				AABFA4B510D714B527AFE068F3D5FC06 /* Activ5-IMU.xcconfig */,
+				C556B463721942A48FEC8AC3B440B2DA /* Activ5-IMU-dummy.m */,
+				9F3AB85CA6490C29E83F32EF5A193AB7 /* Activ5-IMU-Info.plist */,
+				D25261BA6C3EB8AD33E2BE71FA133B37 /* Activ5-IMU-prefix.pch */,
+				2CBD558372EDF03FE3C4C11490C1D989 /* Activ5-IMU-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/Activ5-IMU";
+			sourceTree = "<group>";
+		};
+		28F0413763724E13B4B2697F709D1386 /* Pods-Activ5-IMU_Example */ = {
+			isa = PBXGroup;
+			children = (
+				FBBA1AE6F58B6674CF9AD13FE341354C /* Pods-Activ5-IMU_Example.modulemap */,
+				12F5AC09D110AA67D6C652DF914EF0CD /* Pods-Activ5-IMU_Example-acknowledgements.markdown */,
+				57B1B8E2D57F726C8DBC725D6CE9FF25 /* Pods-Activ5-IMU_Example-acknowledgements.plist */,
+				FB4BAAFC20B117CD3266E47F7E12428F /* Pods-Activ5-IMU_Example-dummy.m */,
+				53DA0BA4AC5F7864E00149B4DEFA1E6D /* Pods-Activ5-IMU_Example-frameworks.sh */,
+				DEF0233BD4480498153ED4228E3D8F69 /* Pods-Activ5-IMU_Example-Info.plist */,
+				61228BA5837EB52CBFF0C4F677DE0183 /* Pods-Activ5-IMU_Example-umbrella.h */,
+				8E08C721A283FBEA188A51209040A609 /* Pods-Activ5-IMU_Example.debug.xcconfig */,
+				CC5A6A30CF80034B95FE1D498511350B /* Pods-Activ5-IMU_Example.release.xcconfig */,
+			);
+			name = "Pods-Activ5-IMU_Example";
+			path = "Target Support Files/Pods-Activ5-IMU_Example";
+			sourceTree = "<group>";
+		};
+		3AC29E1938EF9D53B7C8E191DA9A962D /* Pods-Activ5-IMU_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				C454C3448DE925424046AE73CE5F134D /* Pods-Activ5-IMU_Tests.modulemap */,
+				A4EAA64BC02E9035124DF37F3A0B19E5 /* Pods-Activ5-IMU_Tests-acknowledgements.markdown */,
+				419F533ABA2B203C1334EC91DC452BDD /* Pods-Activ5-IMU_Tests-acknowledgements.plist */,
+				D253B2A97688EA94BC5283289CCDCBD6 /* Pods-Activ5-IMU_Tests-dummy.m */,
+				C399660F62E032EA4B3BB1C35DAD390D /* Pods-Activ5-IMU_Tests-Info.plist */,
+				B581938A9EC36AE46BE1DFC1286B7CDE /* Pods-Activ5-IMU_Tests-umbrella.h */,
+				B599B804E6B3C8C0F5CBDB4A821394D6 /* Pods-Activ5-IMU_Tests.debug.xcconfig */,
+				3836B3F5FC01DF4E27ABD93FD1192EE6 /* Pods-Activ5-IMU_Tests.release.xcconfig */,
+			);
+			name = "Pods-Activ5-IMU_Tests";
+			path = "Target Support Files/Pods-Activ5-IMU_Tests";
+			sourceTree = "<group>";
+		};
+		3E3A394AA582AFD36995DD176D2D8C58 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				02DC087A89B60EF516598E792A34477F /* Hamilton */,
+				15898EA5129C4BF79DB59985A57E6F7B /* SVProgressHUD */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		408F33313C7D9DCC5D4B16FAF3300684 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				FA504B40C274A465E6009F127DA16743 /* Activ5Device.podspec */,
+				0DF847C63449AB634501F0228EE641C2 /* LICENSE */,
+				F8FBF3B74F836C4CC04758950F0A1209 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		529B4E6C617965B6E46FF5C01C7AC0C7 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				EA84B7BAD5C2897B135143CD1B60CD9A /* Activ5Device.modulemap */,
+				0260182D01CCE42969F952C908408336 /* Activ5Device.xcconfig */,
+				D67CA23F7C35D5647A211C39E4C0F19A /* Activ5Device-dummy.m */,
+				34F79D87C11B5B8261FCE27686262111 /* Activ5Device-Info.plist */,
+				4F80E49B0118FDB3F27E014F6D4F2ACB /* Activ5Device-prefix.pch */,
+				FD443A1E1072C53E66AF8E61B7E2A065 /* Activ5Device-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../../Activ5-IMU/Example/Pods/Target Support Files/Activ5Device";
+			sourceTree = "<group>";
+		};
+		8E57A9E2DCA2DDA67B5FF963B6AF52C3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4EB7DEEB99FE9CCC44D13F296DAFDB0F /* SVProgressHUD.bundle */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		934EEB7C312833F3B9C5AC2D4C07969B /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D279CD337EDB76F18EAC5B094A72905D /* Activ5-IMU */,
+				EEB10790D7CAB0F4A2814395716718DA /* Activ5Device */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		A1502915B83C9577B45D126BE0BE8BD5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				113AB275AEF512711C475B58F2DCA19C /* Activ5_IMU.framework */,
+				9C4F495CE19AD5D4754362A468BBE154 /* Activ5Device.framework */,
+				D2C20D809F270164CBDBDC948F65A7A0 /* Hamilton.framework */,
+				6ABA49B198972A39ACBF3C6287998456 /* Pods_Activ5_IMU_Example.framework */,
+				27AA8558F7625BB8D6F13DE0732FC186 /* Pods_Activ5_IMU_Tests.framework */,
+				E97D43C46A45EE515A4DA3AF94398441 /* SVProgressHUD.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B84FE90C10601A61998B4951FF013D45 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1650DCEB22C7C8A41DCC7A44A68A1005 /* Activ5Device.framework */,
+				59724E65B9F1DDE2BE2B78BD23242D9C /* Hamilton.framework */,
+				E7CE4E1D61CFDB2F924AAA9F134081CC /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				934EEB7C312833F3B9C5AC2D4C07969B /* Development Pods */,
+				B84FE90C10601A61998B4951FF013D45 /* Frameworks */,
+				3E3A394AA582AFD36995DD176D2D8C58 /* Pods */,
+				A1502915B83C9577B45D126BE0BE8BD5 /* Products */,
+				022997A799E4DE6CABC6BD4CF43B30E2 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D279CD337EDB76F18EAC5B094A72905D /* Activ5-IMU */ = {
+			isa = PBXGroup;
+			children = (
+				1F0ED12A4E4E3D8ADCCA8B142015BF05 /* KalmanFilter.swift */,
+				FF7EE548BD2CAE9DF6F5E758AFCE2910 /* Orientation.swift */,
+				CB222C21443C6BC5BB2E75E4C45EE58A /* OrientationProvider.swift */,
+				6E109E54A5F7C11CFC21BE4B571803F2 /* QuaternionExtension.swift */,
+				2053EDA817F17B1EE224925D0EE26296 /* VectorExtension.swift */,
+				FB2CDF240414F00EFDF1E45DB5A9A5C4 /* Pod */,
+				1DEB7EFA3645D0038866E01AE43C6375 /* Support Files */,
+			);
+			name = "Activ5-IMU";
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		E7CE4E1D61CFDB2F924AAA9F134081CC /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				57030376FBBB9581306A5B4401208FA0 /* CoreBluetooth.framework */,
+				4E84FEEE0EC2D481286E35E127BFBC69 /* Foundation.framework */,
+				A02CF5B6AFADE0C275A16FEB4D3D83BB /* QuartzCore.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		EEB10790D7CAB0F4A2814395716718DA /* Activ5Device */ = {
+			isa = PBXGroup;
+			children = (
+				01BCEA926C7B333BFB368BAB9928D81F /* A5Device.swift */,
+				E70B9644D645C845702B1FCA2C7D6F92 /* A5DeviceManager.swift */,
+				C9831A6B9A59A892061B1D273348CBB6 /* CBCharacteristicExtensions.swift */,
+				8FDD7746464F7B78C165525A4EA7A480 /* DoubleSqeezeHelper.swift */,
+				3769DCC5A29F1AE937B7B44FBD5D54FF /* IMUObject.swift */,
+				1F0198D99EE07E0CE6B031AE69DB5143 /* MessageParser.swift */,
+				408F33313C7D9DCC5D4B16FAF3300684 /* Pod */,
+				529B4E6C617965B6E46FF5C01C7AC0C7 /* Support Files */,
+			);
+			name = Activ5Device;
+			path = "../../../Activ5-Device/Activ5Device";
+			sourceTree = "<group>";
+		};
+		F3CDE78CA30EF59C746C969FFDE3C451 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				0A0AD674D1A64C892CFCA46DC018EFDB /* SVProgressHUD.modulemap */,
+				D5111F1E86AAF2E59C1C7AA56D1FDE86 /* SVProgressHUD.xcconfig */,
+				046751C4EDC24B41C905E541778BB628 /* SVProgressHUD-dummy.m */,
+				264D65AB8788B5365030C8923DDA59B3 /* SVProgressHUD-Info.plist */,
+				2F25D1D23C2E2163E8FDBF0034941CFD /* SVProgressHUD-prefix.pch */,
+				549A43BB547806D5F5F4DB4F5720CA88 /* SVProgressHUD-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/SVProgressHUD";
+			sourceTree = "<group>";
+		};
+		FB2CDF240414F00EFDF1E45DB5A9A5C4 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				8EEB3BF8FFFAA4AE69B733109DA8F0B7 /* Activ5-IMU.podspec */,
+				6A2BF2765A30A03AA62306C1A0242A18 /* LICENSE */,
+				65A96624153565B68106624AD7488EF2 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		FF84BEAA1DAD2BC2EB3BA4B05BBB0279 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				75BD1D2180F3408B9FF94F5471B2820A /* Hamilton.modulemap */,
+				6EDD3B2E52E4A4344F0F6B2CFFA5D3AF /* Hamilton.xcconfig */,
+				96BA3188310F42222A400EA339945DCB /* Hamilton-dummy.m */,
+				839F2DCE2F8A4698639E534FEA01A6E8 /* Hamilton-Info.plist */,
+				AEC597949C401BA62B1BEB9EB4C69DD3 /* Hamilton-prefix.pch */,
+				D9B1B8E2BE30095AE5B6AE705F487144 /* Hamilton-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Hamilton";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		21CF26C4E64E314F7048EFCA09FF56C8 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6D9F3850480272624135C79B3632D65 /* Hamilton-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		23A7DEFBA69C237CD363E2FA05FFF8E0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD637CC5F97966DA1A1E128990BC7FE4 /* Pods-Activ5-IMU_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7652D8A13DFF3D9DF2BBB33ACBDFBFED /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				707F3BAFDBE3F2B7ADC94F823ADFBEDE /* Activ5Device-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7C044C67F11489EFA3459B8399E7061C /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96EADE99073DBA8FCE7904627E2D18EE /* SVIndefiniteAnimatedView.h in Headers */,
+				E0186A63060F0EB3676F95CD0ACE0E18 /* SVProgressAnimatedView.h in Headers */,
+				DE12057AB8895931A0E9499619C5CFC8 /* SVProgressHUD-umbrella.h in Headers */,
+				0CA80ED7E59E6BCE64CEEE649A3C6D2F /* SVProgressHUD.h in Headers */,
+				D87B2D5ED73534ACF97CE0A52FA18AE4 /* SVRadialGradientLayer.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		920C1E4A32BC86C542C870806BC23C91 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				21CB2C728B92090B565B6FEE4339F893 /* Pods-Activ5-IMU_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F47C780B4FE48F3FC2C95A11C4013489 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2FEFD98E3748837FD0D2B91817EC4657 /* Activ5-IMU-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		06D52E5A290E2A283C21066C38AE84C7 /* Pods-Activ5-IMU_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E3BCAA8415B889F1830B6994B6DADF54 /* Build configuration list for PBXNativeTarget "Pods-Activ5-IMU_Tests" */;
+			buildPhases = (
+				920C1E4A32BC86C542C870806BC23C91 /* Headers */,
+				11580F8B853149AAAC7A6FF0C8BD88C3 /* Sources */,
+				50D596DDC773C8BF42F8D9710D6E0140 /* Frameworks */,
+				FC9A8C2D3468B466DC972E337964F64B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7BA6434ED64895045D2EC00EC82E5A30 /* PBXTargetDependency */,
+			);
+			name = "Pods-Activ5-IMU_Tests";
+			productName = "Pods-Activ5-IMU_Tests";
+			productReference = 27AA8558F7625BB8D6F13DE0732FC186 /* Pods_Activ5_IMU_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		1C8D67D8B72D6BA42CCEDB648537A340 /* SVProgressHUD */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E76C288BA44757915CF3700D8A326EB7 /* Build configuration list for PBXNativeTarget "SVProgressHUD" */;
+			buildPhases = (
+				7C044C67F11489EFA3459B8399E7061C /* Headers */,
+				D0233C648200ED130A278D7164E80914 /* Sources */,
+				B3D1D1191F24E31CEEA04BDB3FB4C0F2 /* Frameworks */,
+				7BB2E885B360CCC1AEF0C191542BA06E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SVProgressHUD;
+			productName = SVProgressHUD;
+			productReference = E97D43C46A45EE515A4DA3AF94398441 /* SVProgressHUD.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		1E0DC86BF304832E89B1BD167488434A /* Hamilton */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BB2C68CA20F72F2CD2B0F847DF64D5F8 /* Build configuration list for PBXNativeTarget "Hamilton" */;
+			buildPhases = (
+				21CF26C4E64E314F7048EFCA09FF56C8 /* Headers */,
+				E30C8CDE24FB38B3F73C0BF122AFE759 /* Sources */,
+				D1B77A1628DC5FFF754009037BD34DB8 /* Frameworks */,
+				3C47FE7E31F9078E4552E66E78FB16CF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Hamilton;
+			productName = Hamilton;
+			productReference = D2C20D809F270164CBDBDC948F65A7A0 /* Hamilton.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		407B3A24967333162BC48260A4A3083B /* Activ5-IMU */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 514DA68135342B80B52DD2F15AA4FD0D /* Build configuration list for PBXNativeTarget "Activ5-IMU" */;
+			buildPhases = (
+				F47C780B4FE48F3FC2C95A11C4013489 /* Headers */,
+				3674ADCB29B9E204D0F6092F72D57DCC /* Sources */,
+				901F789F14085AFAD953131159D56A25 /* Frameworks */,
+				5EA4E3FB82A31BC006BE2D619335E199 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FC1222DABC5EA8A43EA2664B1019C797 /* PBXTargetDependency */,
+				3E0872317EA95D2E5072FF864820DD8C /* PBXTargetDependency */,
+			);
+			name = "Activ5-IMU";
+			productName = "Activ5-IMU";
+			productReference = 113AB275AEF512711C475B58F2DCA19C /* Activ5_IMU.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		48385319202D1EA46E2B0AB7B74868DE /* Pods-Activ5-IMU_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6F573E1F49B3E3C78E584C8A2AA23623 /* Build configuration list for PBXNativeTarget "Pods-Activ5-IMU_Example" */;
+			buildPhases = (
+				23A7DEFBA69C237CD363E2FA05FFF8E0 /* Headers */,
+				F9E6934BB55A81BA0E78888C289A72CF /* Sources */,
+				69AB35DF05B7DAD9F9047FB8A5A18C25 /* Frameworks */,
+				D25ABA3164778D45435D4192423DDA2E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2FB5C9ACD1722E05F208F8954CECC479 /* PBXTargetDependency */,
+				C2F3FD3759A888D5FDE18BAFA1DC66BE /* PBXTargetDependency */,
+				EBA3DF75238A5D648116B694154B399C /* PBXTargetDependency */,
+				9BEEB14117AA4017BE9479158BD992FA /* PBXTargetDependency */,
+			);
+			name = "Pods-Activ5-IMU_Example";
+			productName = "Pods-Activ5-IMU_Example";
+			productReference = 6ABA49B198972A39ACBF3C6287998456 /* Pods_Activ5_IMU_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		722F6346583A0BDB06113F199632F67D /* Activ5Device */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65A867744D33C554CECF06C67849277E /* Build configuration list for PBXNativeTarget "Activ5Device" */;
+			buildPhases = (
+				7652D8A13DFF3D9DF2BBB33ACBDFBFED /* Headers */,
+				E1ECEF6525952AD0631670852A99D68D /* Sources */,
+				57D3894304062838B2AF4BF8CA767414 /* Frameworks */,
+				6C6FBD5954BD44858DBC676CF9CF2100 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Activ5Device;
+			productName = Activ5Device;
+			productReference = 9C4F495CE19AD5D4754362A468BBE154 /* Activ5Device.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = A1502915B83C9577B45D126BE0BE8BD5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				407B3A24967333162BC48260A4A3083B /* Activ5-IMU */,
+				722F6346583A0BDB06113F199632F67D /* Activ5Device */,
+				1E0DC86BF304832E89B1BD167488434A /* Hamilton */,
+				48385319202D1EA46E2B0AB7B74868DE /* Pods-Activ5-IMU_Example */,
+				06D52E5A290E2A283C21066C38AE84C7 /* Pods-Activ5-IMU_Tests */,
+				1C8D67D8B72D6BA42CCEDB648537A340 /* SVProgressHUD */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3C47FE7E31F9078E4552E66E78FB16CF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5EA4E3FB82A31BC006BE2D619335E199 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6C6FBD5954BD44858DBC676CF9CF2100 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7BB2E885B360CCC1AEF0C191542BA06E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				264E1A478BDFA31DA6842749C72EA535 /* SVProgressHUD.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D25ABA3164778D45435D4192423DDA2E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC9A8C2D3468B466DC972E337964F64B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		11580F8B853149AAAC7A6FF0C8BD88C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9FE5183F483E13701079EEF67191AE88 /* Pods-Activ5-IMU_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3674ADCB29B9E204D0F6092F72D57DCC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A14E15B767EB4600337309311F5384E5 /* Activ5-IMU-dummy.m in Sources */,
+				911E5C4D845BE7B13DA46712D4092586 /* KalmanFilter.swift in Sources */,
+				3B2ABE42BD7E0825631F905171151041 /* Orientation.swift in Sources */,
+				4D985514B69BEBE6B4257188B0F741B1 /* OrientationProvider.swift in Sources */,
+				76065A5B08FE6E1FD8C61D4C363152A5 /* QuaternionExtension.swift in Sources */,
+				33106C37D8D9641CFF20BD026320B18A /* VectorExtension.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0233C648200ED130A278D7164E80914 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B5B9915F785CB47C5C07F0B698911B00 /* SVIndefiniteAnimatedView.m in Sources */,
+				EEAA1518C49804736C3F40117D064CBE /* SVProgressAnimatedView.m in Sources */,
+				9FDEEEE37349769B84A30B0105DFF456 /* SVProgressHUD-dummy.m in Sources */,
+				3392F8407B8C6F47A4E47436894642D8 /* SVProgressHUD.m in Sources */,
+				D2246BE5AF9C116D84444CC5C955BC02 /* SVRadialGradientLayer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1ECEF6525952AD0631670852A99D68D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AC35AC35DB8835295DD38455B15CFB8 /* A5Device.swift in Sources */,
+				6C84620C1FD5B54B5DE09C035402D65A /* A5DeviceManager.swift in Sources */,
+				C302B7598E5B0BDDEE4CFDB4DFD911B3 /* Activ5Device-dummy.m in Sources */,
+				074DD8E8282E4AAC273656C2E70ECDE5 /* CBCharacteristicExtensions.swift in Sources */,
+				1B98F3349ABCA76055DB8C1D880CD85C /* DoubleSqeezeHelper.swift in Sources */,
+				ADA5A43FDB2406DCDB1B47A8CE0C9112 /* IMUObject.swift in Sources */,
+				8ADC250DE3E1134954ADEC46E8066D55 /* MessageParser.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E30C8CDE24FB38B3F73C0BF122AFE759 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0919BC44AC7DF2C835523EDED60BF320 /* AngleConvertible.swift in Sources */,
+				180D5AFEA9CBF89B94448911B621C7E0 /* EulerAngles+Equatable.swift in Sources */,
+				B229AEFF5013C63B2AD66C9E9C8DE12B /* EulerAngles+Operators.swift in Sources */,
+				4907AFE56269B2491F32331EA718F4A3 /* EulerAngles.swift in Sources */,
+				60263468F6EACBAB15B2E53D9CE8090A /* Hamilton-dummy.m in Sources */,
+				B45819B71ABD10DBA5CF93E648E0E94E /* Quaternion.swift in Sources */,
+				08F0E2245B7F754B06ABF18875FB195C /* Rotateable.swift in Sources */,
+				B173FF2C00912D4B0D2B6A0D5FEEC0DF /* Scalar.swift in Sources */,
+				157060D05F748FD6CC2A2C14D79416AF /* Vector2.swift in Sources */,
+				8394C24654483FE69CE564D12AC4614F /* Vector3.swift in Sources */,
+				4600231794F729BDA40AA3D369ACE23A /* Vector4.swift in Sources */,
+				8521F46CC3E427C64330CCB41ADFF619 /* Vectorable+SceneKit.swift in Sources */,
+				92DFCCA8FFD06BC72CC0E55BF0161674 /* Vectorable.swift in Sources */,
+				12A8939696201ECA28EA66394551144B /* VectorableFormatter.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9E6934BB55A81BA0E78888C289A72CF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				74CA6E3D99D747FF41D3C5A151A40214 /* Pods-Activ5-IMU_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2FB5C9ACD1722E05F208F8954CECC479 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Activ5-IMU";
+			target = 407B3A24967333162BC48260A4A3083B /* Activ5-IMU */;
+			targetProxy = 26021B14EF4AB63018BF4B1207A4F207 /* PBXContainerItemProxy */;
+		};
+		3E0872317EA95D2E5072FF864820DD8C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Hamilton;
+			target = 1E0DC86BF304832E89B1BD167488434A /* Hamilton */;
+			targetProxy = F5EA28CBA14DB295BFF29C375751D49C /* PBXContainerItemProxy */;
+		};
+		7BA6434ED64895045D2EC00EC82E5A30 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-Activ5-IMU_Example";
+			target = 48385319202D1EA46E2B0AB7B74868DE /* Pods-Activ5-IMU_Example */;
+			targetProxy = CE2BD4528387562E51AEEA19D1CF2EB1 /* PBXContainerItemProxy */;
+		};
+		9BEEB14117AA4017BE9479158BD992FA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SVProgressHUD;
+			target = 1C8D67D8B72D6BA42CCEDB648537A340 /* SVProgressHUD */;
+			targetProxy = ADCF5EEA3D7B36176D31C2EAB7AE7226 /* PBXContainerItemProxy */;
+		};
+		C2F3FD3759A888D5FDE18BAFA1DC66BE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Activ5Device;
+			target = 722F6346583A0BDB06113F199632F67D /* Activ5Device */;
+			targetProxy = 05FE71C8C03D105C9177F81A1B29823A /* PBXContainerItemProxy */;
+		};
+		EBA3DF75238A5D648116B694154B399C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Hamilton;
+			target = 1E0DC86BF304832E89B1BD167488434A /* Hamilton */;
+			targetProxy = C110831A8EE66B20E2B065525987D836 /* PBXContainerItemProxy */;
+		};
+		FC1222DABC5EA8A43EA2664B1019C797 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Activ5Device;
+			target = 722F6346583A0BDB06113F199632F67D /* Activ5Device */;
+			targetProxy = 411139B3C06399D19FDF33EBB5F5C2E3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		00A6766B53386BE4A69F3F6B806485BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B599B804E6B3C8C0F5CBDB4A821394D6 /* Pods-Activ5-IMU_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Activ5-IMU_Tests/Pods-Activ5-IMU_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Activ5-IMU_Tests/Pods-Activ5-IMU_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		04077A760FBED0BEC79CEB30DBA40B6C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CC5A6A30CF80034B95FE1D498511350B /* Pods-Activ5-IMU_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Activ5-IMU_Example/Pods-Activ5-IMU_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Activ5-IMU_Example/Pods-Activ5-IMU_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		0F0D8C9D3A984E8A59C97C193AAABA85 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0260182D01CCE42969F952C908408336 /* Activ5Device.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Activ5Device/Activ5Device-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Activ5Device/Activ5Device-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Activ5Device/Activ5Device.modulemap";
+				PRODUCT_MODULE_NAME = Activ5Device;
+				PRODUCT_NAME = Activ5Device;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		257497152829C177993B5EC99C1D227A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		2950D6B8E56DD80DEFD58B0E958072AD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0260182D01CCE42969F952C908408336 /* Activ5Device.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Activ5Device/Activ5Device-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Activ5Device/Activ5Device-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Activ5Device/Activ5Device.modulemap";
+				PRODUCT_MODULE_NAME = Activ5Device;
+				PRODUCT_NAME = Activ5Device;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		50FB48102A3857256520FB7AA65E8E0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E08C721A283FBEA188A51209040A609 /* Pods-Activ5-IMU_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Activ5-IMU_Example/Pods-Activ5-IMU_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Activ5-IMU_Example/Pods-Activ5-IMU_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		659F3DB3F0299131A851F285448F2B19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D5111F1E86AAF2E59C1C7AA56D1FDE86 /* SVProgressHUD.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SVProgressHUD/SVProgressHUD-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SVProgressHUD/SVProgressHUD-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SVProgressHUD/SVProgressHUD.modulemap";
+				PRODUCT_MODULE_NAME = SVProgressHUD;
+				PRODUCT_NAME = SVProgressHUD;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		9F7808DD022AD632703ABB652288E3D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6EDD3B2E52E4A4344F0F6B2CFFA5D3AF /* Hamilton.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Hamilton/Hamilton-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Hamilton/Hamilton-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Hamilton/Hamilton.modulemap";
+				PRODUCT_MODULE_NAME = Hamilton;
+				PRODUCT_NAME = Hamilton;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		C6114F2A2D89694EBBCD4C76FE0C4E16 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AABFA4B510D714B527AFE068F3D5FC06 /* Activ5-IMU.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Activ5-IMU/Activ5-IMU-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Activ5-IMU/Activ5-IMU-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Activ5-IMU/Activ5-IMU.modulemap";
+				PRODUCT_MODULE_NAME = Activ5_IMU;
+				PRODUCT_NAME = Activ5_IMU;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		DD8F832993327D1DD8046C3CBCBD97CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		E77651E0669AB83235203EC0E7E5DFE0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D5111F1E86AAF2E59C1C7AA56D1FDE86 /* SVProgressHUD.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SVProgressHUD/SVProgressHUD-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SVProgressHUD/SVProgressHUD-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SVProgressHUD/SVProgressHUD.modulemap";
+				PRODUCT_MODULE_NAME = SVProgressHUD;
+				PRODUCT_NAME = SVProgressHUD;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		F17DE3943A5A0BE95CC0A6AB42D6A7E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3836B3F5FC01DF4E27ABD93FD1192EE6 /* Pods-Activ5-IMU_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Activ5-IMU_Tests/Pods-Activ5-IMU_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Activ5-IMU_Tests/Pods-Activ5-IMU_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		FBF90639C480AB22D6A68F1369265D47 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AABFA4B510D714B527AFE068F3D5FC06 /* Activ5-IMU.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Activ5-IMU/Activ5-IMU-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Activ5-IMU/Activ5-IMU-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Activ5-IMU/Activ5-IMU.modulemap";
+				PRODUCT_MODULE_NAME = Activ5_IMU;
+				PRODUCT_NAME = Activ5_IMU;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		FD257FE91F374AF44788B955C91279AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6EDD3B2E52E4A4344F0F6B2CFFA5D3AF /* Hamilton.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Hamilton/Hamilton-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Hamilton/Hamilton-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Hamilton/Hamilton.modulemap";
+				PRODUCT_MODULE_NAME = Hamilton;
+				PRODUCT_NAME = Hamilton;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD8F832993327D1DD8046C3CBCBD97CD /* Debug */,
+				257497152829C177993B5EC99C1D227A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		514DA68135342B80B52DD2F15AA4FD0D /* Build configuration list for PBXNativeTarget "Activ5-IMU" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FBF90639C480AB22D6A68F1369265D47 /* Debug */,
+				C6114F2A2D89694EBBCD4C76FE0C4E16 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65A867744D33C554CECF06C67849277E /* Build configuration list for PBXNativeTarget "Activ5Device" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F0D8C9D3A984E8A59C97C193AAABA85 /* Debug */,
+				2950D6B8E56DD80DEFD58B0E958072AD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6F573E1F49B3E3C78E584C8A2AA23623 /* Build configuration list for PBXNativeTarget "Pods-Activ5-IMU_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50FB48102A3857256520FB7AA65E8E0A /* Debug */,
+				04077A760FBED0BEC79CEB30DBA40B6C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BB2C68CA20F72F2CD2B0F847DF64D5F8 /* Build configuration list for PBXNativeTarget "Hamilton" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD257FE91F374AF44788B955C91279AC /* Debug */,
+				9F7808DD022AD632703ABB652288E3D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E3BCAA8415B889F1830B6994B6DADF54 /* Build configuration list for PBXNativeTarget "Pods-Activ5-IMU_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00A6766B53386BE4A69F3F6B806485BC /* Debug */,
+				F17DE3943A5A0BE95CC0A6AB42D6A7E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E76C288BA44757915CF3700D8A326EB7 /* Build configuration list for PBXNativeTarget "SVProgressHUD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				659F3DB3F0299131A851F285448F2B19 /* Debug */,
+				E77651E0669AB83235203EC0E7E5DFE0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}

@@ -1,0 +1,6 @@
+framework module Activ5_IMU {
+  umbrella header "Activ5-IMU-umbrella.h"
+
+  export *
+  module * { export * }
+}

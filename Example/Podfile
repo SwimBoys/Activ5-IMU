@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Activ5-IMU_Example' do
+  pod 'Activ5-IMU', :path => '../'
+  pod 'Activ5Device', :path => '../../Activ5-Device/Activ5Device'
+  pod 'Hamilton', :git => 'https://github.com/martin-key/Hamilton'
+  pod 'SVProgressHUD'
+  target 'Activ5-IMU_Tests' do
+    inherit! :search_paths
+  end
+end
